@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE Cliente>
+	<!ELEMENT Cliente(Cuit, Nombre, Razon_Social, ID_Ciudad, ID_Provincia, ID_Actividad)>
+	<!ELEMENT Cliente_Maquina(Cuit, ID_Maquina, Cantidad)>
+	<!ELEMENT Cliente_Zona(ID_Zona, Cuit)>
+	<!ELEMENT Contacto(Cuit, Telefono, Cumpleanos, Nombre_Contacto, Email, ID_Contacto)>
+	<!ELEMENT Vendedor(ID_Vendedor, Nombre_Vendedor, ID_Zona)>
+	<!ELEMENT Cliente_Vendedor(Cuit, ID_Vendedor)>
+
+	<!ELEMENT Cuit(#PCDATA)>
+	<!ELEMENT Nombre(#PCDATA)>
+	<!ELEMENT Nombre_Contacto(#PCDATA)>
+	<!ELEMENT Nombre_Vendedor(#PCDATA)>
+	<!ELEMENT Razon_Social(#PCDATA)>
+	<!ELEMENT ID_Ciudad(#PCDATA)>
+	<!ELEMENT ID_Provincia(#PCDATA)>
+	<!ELEMENT ID_Actividad(#PCDATA)>
+	<!ELEMENT ID_Maquina(#PCDATA)>
+	<!ELEMENT ID_Zona(#PCDATA)>
+	<!ELEMENT ID_Vendedor(#PCDATA)>
+	<!ELEMENT ID_Contacto(#PCDATA)>
+	<!ELEMENT Cantidad(#PCDATA)>
+	<!ELEMENT Telefono(#PCDATA)>
+	<!ELEMENT Cumpleanos(#PCDATA)>
+	<!ELEMENT Email(#PCDATA)>
+
+</Cliente>

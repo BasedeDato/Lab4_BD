@@ -1,0 +1,28 @@
+<!--Nota: Se debe definir el esquema en un modulo esquema.xml-->
+
+<!--consulta 1:-->
+<!--Clientes con cantidad de maquinas mayor a 2-->
+
+for $a in doc("esquema.xml")/Clientes/Cliente
+    $b in doc("esquema.xml")/Cliente_Maquina[Cantidad>2]
+return $a/Nombre/test()
+
+<!--#########################################################################-->
+<!--consulta 2:-->
+<!--Teléfonos de clientes de la zona zzz-->
+
+<!--Los que esta en el for es una reunion natural. "zzz" dato de entrada ....-->
+for $a in doc("esquema.xml")/Clientes/Zona[Nombre_Zona="zzz"]
+    $b in doc("esquema.xml")/Clientes/Contacto
+    $c in doc("esquema.xml")/Clientes/Cliente_Zona[ID_Zona=$a/ID_Zona and $b/Cuit=Cuit]
+return $b/Telefono/text()
+
+<!--#########################################################################-->
+<!--consulta 3:-->
+<!--Nombres de Clientes de un vendedor y una zona-->
+
+for $a in doc("esquema.xml")/Clientes/Zona[Nombre_Zona="zzz"]
+    $b in doc("esquema.xml")/Clientes/Vendedor[Nombre_Vendedor="xxx" and ID_Zona=$a/ID_Zona]
+    $c in doc("esquema.xml")/Clientes/Cliente_Vendedor[ID_Vendedor=$b/ID_Vendedor]
+    $d in doc("esquema.xml")/Clientes/Cliente[Cuit=$c/Cuit]
+return $d/Nombre/text()

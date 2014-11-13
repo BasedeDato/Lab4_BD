@@ -8,6 +8,7 @@
     <!ELEMENT Contacto (Cuit, Telefono, Cumpleanos, Nombre_Contacto, Email, ID_Contacto)>
     <!ELEMENT Vendedor (ID_Vendedor, Nombre_Vendedor, ID_Zona)>
     <!ELEMENT Cliente_Vendedor (Cuit, ID_Vendedor)>	
+
     <!ELEMENT Cuit (#PCDATA)>
     <!ELEMENT Nombre (#PCDATA)>
     <!ELEMENT Nombre_Contacto (#PCDATA)>

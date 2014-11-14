@@ -5,7 +5,7 @@
 
 for $a in doc("esquema.xml")/Clientes/Cliente
     $b in doc("esquema.xml")/Cliente_Maquina[Cantidad>2]
-return $a/Nombre/test()
+return $a/Nombre/text()
 
 <!--#########################################################################-->
 <!--consulta 2:-->

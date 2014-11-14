@@ -4,7 +4,7 @@
 <!--Clientes con cantidad de maquinas mayor a 2-->
 
 for $a in doc("esquema.xml")/Clientes/Cliente
-    $b in doc("esquema.xml")/Cliente_Maquina[Cantidad>2]
+    $b in doc("esquema.xml")/Clientes/Cliente_Maquina[Cantidad>2]
 return $a/Nombre/text()
 
 <!--#########################################################################-->

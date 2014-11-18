@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+ <cliente Nombre="Ab Harris" Cuit="606921255" Razon_Social="dzbwmtzzf" ID_Ciudad="7" ID_Provincia="14" ID_Actividad="171">
+  <cliente-maquina ID_Maquina="0" Cantidad="97"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Abdul Oberbrunner IV" Cuit="918756165" Razon_Social="wzqqbdgyak" ID_Ciudad="123" ID_Provincia="23" ID_Actividad="78">
+  <cliente-maquina ID_Maquina="2" Cantidad="59"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Abel Thompson" Cuit="225583668" Razon_Social="cidjrrl" ID_Ciudad="95" ID_Provincia="15" ID_Actividad="46">
+  <cliente-maquina ID_Maquina="4" Cantidad="59"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Adams Jerde III" Cuit="381508634" Razon_Social="seiwvgby" ID_Ciudad="98" ID_Provincia="2" ID_Actividad="198">
+  <cliente-maquina ID_Maquina="3" Cantidad="86"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Aili Hammes" Cuit="339979988" Razon_Social="xauagqelu" ID_Ciudad="108" ID_Provincia="21" ID_Actividad="86">
+  <cliente-maquina ID_Maquina="5" Cantidad="82"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Alden Little" Cuit="243333539" Razon_Social="rwrz" ID_Ciudad="49" ID_Provincia="17" ID_Actividad="76">
+  <cliente-maquina ID_Maquina="5" Cantidad="120"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Aleah Dooley" Cuit="462724363" Razon_Social="dbtbobyswd" ID_Ciudad="3" ID_Provincia="3" ID_Actividad="182">
+  <cliente-maquina ID_Maquina="5" Cantidad="9"/>
+  <cliente-maquina ID_Maquina="1" Cantidad="81"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Alease Steuber DDS" Cuit="316382532" Razon_Social="kjafsogy" ID_Ciudad="9" ID_Provincia="3" ID_Actividad="91">
+  <cliente-maquina ID_Maquina="1" Cantidad="108"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Alecia Torp" Cuit="559929674" Razon_Social="uqta" ID_Ciudad="53" ID_Provincia="9" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="4" Cantidad="56"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Alesia Kuhic" Cuit="815567749" Razon_Social="tjavu" ID_Ciudad="3" ID_Provincia="21" ID_Actividad="17">
+  <cliente-maquina ID_Maquina="3" Cantidad="1"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Alesia Roob" Cuit="829767186" Razon_Social="abjnetlqfx" ID_Ciudad="28" ID_Provincia="20" ID_Actividad="132">
+  <cliente-maquina ID_Maquina="0" Cantidad="179"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Alex Fritsch" Cuit="908319819" Razon_Social="dgerhgen" ID_Ciudad="71" ID_Provincia="6" ID_Actividad="32">
+  <cliente-maquina ID_Maquina="0" Cantidad="6"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Alphons Sporer" Cuit="24999559" Razon_Social="ansfnytw" ID_Ciudad="52" ID_Provincia="23" ID_Actividad="121">
+  <cliente-maquina ID_Maquina="5" Cantidad="18"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Alton Lockman" Cuit="742724996" Razon_Social="fspoo" ID_Ciudad="1" ID_Provincia="1" ID_Actividad="65">
+  <cliente-maquina ID_Maquina="2" Cantidad="31"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Amalie Hane" Cuit="404708375" Razon_Social="b" ID_Ciudad="117" ID_Provincia="4" ID_Actividad="191">
+  <cliente-maquina ID_Maquina="1" Cantidad="56"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Amaris Weber" Cuit="148077463" Razon_Social="ckxicdom" ID_Ciudad="2" ID_Provincia="14" ID_Actividad="16">
+  <cliente-maquina ID_Maquina="1" Cantidad="195"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Americo Brekke" Cuit="956080025" Razon_Social="lo" ID_Ciudad="93" ID_Provincia="0" ID_Actividad="141">
+  <cliente-maquina ID_Maquina="0" Cantidad="164"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Amparo Fritsch" Cuit="957358366" Razon_Social="s" ID_Ciudad="70" ID_Provincia="9" ID_Actividad="47">
+  <cliente-maquina ID_Maquina="5" Cantidad="37"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Anissa Hahn" Cuit="148722583" Razon_Social="gcpto" ID_Ciudad="83" ID_Provincia="6" ID_Actividad="149">
+  <cliente-maquina ID_Maquina="2" Cantidad="154"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Anna Harvey" Cuit="48665695" Razon_Social="obydn" ID_Ciudad="58" ID_Provincia="20" ID_Actividad="76">
+  <cliente-maquina ID_Maquina="2" Cantidad="3"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Annemarie Klein" Cuit="827031643" Razon_Social="hmocq" ID_Ciudad="132" ID_Provincia="3" ID_Actividad="32">
+  <cliente-maquina ID_Maquina="4" Cantidad="37"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Arielle Stroman DVM" Cuit="606319882" Razon_Social="sgubv" ID_Ciudad="109" ID_Provincia="2" ID_Actividad="130">
+  <cliente-maquina ID_Maquina="4" Cantidad="50"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Armando Reichert" Cuit="814219494" Razon_Social="ckngiydrpy" ID_Ciudad="91" ID_Provincia="2" ID_Actividad="25">
+  <cliente-maquina ID_Maquina="0" Cantidad="69"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Armani Schmeler MD" Cuit="159855576" Razon_Social="edwkmkvt" ID_Ciudad="94" ID_Provincia="19" ID_Actividad="70">
+  <cliente-maquina ID_Maquina="2" Cantidad="14"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Ashby Kulas" Cuit="780054633" Razon_Social="qryl" ID_Ciudad="113" ID_Provincia="1" ID_Actividad="149">
+  <cliente-maquina ID_Maquina="4" Cantidad="186"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ashby Wilderman" Cuit="812796270" Razon_Social="ugno" ID_Ciudad="133" ID_Provincia="1" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="5" Cantidad="27"/>
+  <cliente-maquina ID_Maquina="4" Cantidad="114"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Asher Gulgowski" Cuit="940793191" Razon_Social="v" ID_Ciudad="28" ID_Provincia="13" ID_Actividad="149">
+  <cliente-maquina ID_Maquina="2" Cantidad="89"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ashley Vandervort" Cuit="166798044" Razon_Social="vwfeqpvtu" ID_Ciudad="113" ID_Provincia="9" ID_Actividad="108">
+  <cliente-maquina ID_Maquina="3" Cantidad="92"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ashlynn Romaguera DD" Cuit="259460578" Razon_Social="ecepxyqoed" ID_Ciudad="81" ID_Provincia="23" ID_Actividad="54">
+  <cliente-maquina ID_Maquina="4" Cantidad="82"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Athena Crist" Cuit="646789965" Razon_Social="tqmkdnizlk" ID_Ciudad="60" ID_Provincia="20" ID_Actividad="180">
+  <cliente-maquina ID_Maquina="3" Cantidad="76"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Audrianna Hilll" Cuit="99684546" Razon_Social="dcmbtx" ID_Ciudad="3" ID_Provincia="17" ID_Actividad="127">
+  <cliente-maquina ID_Maquina="4" Cantidad="20"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Auther Bartell I" Cuit="855693043" Razon_Social="d" ID_Ciudad="112" ID_Provincia="17" ID_Actividad="54">
+  <cliente-maquina ID_Maquina="1" Cantidad="39"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ayla Boyer" Cuit="988353455" Razon_Social="mrhwoz" ID_Ciudad="145" ID_Provincia="1" ID_Actividad="59">
+  <cliente-maquina ID_Maquina="4" Cantidad="35"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ayla Powlowski MD" Cuit="325536550" Razon_Social="wfbkhvoq" ID_Ciudad="121" ID_Provincia="5" ID_Actividad="22">
+  <cliente-maquina ID_Maquina="0" Cantidad="26"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Babe Quitzon" Cuit="924304867" Razon_Social="rsgsu" ID_Ciudad="35" ID_Provincia="17" ID_Actividad="43">
+  <cliente-maquina ID_Maquina="0" Cantidad="82"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Bartley Weissnat DVM" Cuit="859380554" Razon_Social="dfx" ID_Ciudad="137" ID_Provincia="21" ID_Actividad="32">
+  <cliente-maquina ID_Maquina="4" Cantidad="190"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Baxter D Amore MD" Cuit="484631272" Razon_Social="gjkzcbx" ID_Ciudad="54" ID_Provincia="21" ID_Actividad="64">
+  <cliente-maquina ID_Maquina="3" Cantidad="134"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Bee Blick" Cuit="796195740" Razon_Social="u" ID_Ciudad="39" ID_Provincia="1" ID_Actividad="95">
+  <cliente-maquina ID_Maquina="1" Cantidad="189"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Ben Huels Jr " Cuit="276469581" Razon_Social="pfrwjg" ID_Ciudad="48" ID_Provincia="2" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="2" Cantidad="2"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Berton Trantow" Cuit="736916336" Razon_Social="juykf" ID_Ciudad="4" ID_Provincia="9" ID_Actividad="173">
+  <cliente-maquina ID_Maquina="1" Cantidad="125"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Besse Torphy" Cuit="810918506" Razon_Social="dl" ID_Ciudad="38" ID_Provincia="21" ID_Actividad="104">
+  <cliente-maquina ID_Maquina="2" Cantidad="118"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Blake Hudson" Cuit="478113611" Razon_Social="ifnkv" ID_Ciudad="86" ID_Provincia="6" ID_Actividad="60">
+  <cliente-maquina ID_Maquina="5" Cantidad="110"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Blane Ferry" Cuit="708246495" Razon_Social="elzogtqrd" ID_Ciudad="57" ID_Provincia="16" ID_Actividad="33">
+  <cliente-maquina ID_Maquina="3" Cantidad="77"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Bode Stracke MD" Cuit="111235235" Razon_Social="tcu" ID_Ciudad="81" ID_Provincia="1" ID_Actividad="71">
+  <cliente-maquina ID_Maquina="0" Cantidad="2"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Boss Doyle" Cuit="160037512" Razon_Social="ghlxf" ID_Ciudad="148" ID_Provincia="16" ID_Actividad="130">
+  <cliente-maquina ID_Maquina="5" Cantidad="197"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Boston Kuhlman" Cuit="887136028" Razon_Social="xcjm" ID_Ciudad="129" ID_Provincia="20" ID_Actividad="152">
+  <cliente-maquina ID_Maquina="4" Cantidad="184"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Bradford Jast V" Cuit="918778140" Razon_Social="u" ID_Ciudad="111" ID_Provincia="3" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="5" Cantidad="117"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Bradly Wyman" Cuit="166998924" Razon_Social="dagqnd" ID_Ciudad="107" ID_Provincia="7" ID_Actividad="41">
+  <cliente-maquina ID_Maquina="3" Cantidad="178"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Brandyn Aufderhar" Cuit="639622321" Razon_Social="hrlyvrqxyt" ID_Ciudad="62" ID_Provincia="17" ID_Actividad="185">
+  <cliente-maquina ID_Maquina="0" Cantidad="64"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Breanne Rohan" Cuit="875026942" Razon_Social="ghldkv" ID_Ciudad="136" ID_Provincia="19" ID_Actividad="173">
+  <cliente-maquina ID_Maquina="0" Cantidad="10"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Bree Macejkovic" Cuit="527494912" Razon_Social="xpfjxeo" ID_Ciudad="52" ID_Provincia="0" ID_Actividad="108">
+  <cliente-maquina ID_Maquina="4" Cantidad="117"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Brendan Fritsch" Cuit="195753593" Razon_Social="iub" ID_Ciudad="29" ID_Provincia="12" ID_Actividad="133">
+  <cliente-maquina ID_Maquina="5" Cantidad="2"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Brett Littel" Cuit="367571838" Razon_Social="il" ID_Ciudad="10" ID_Provincia="13" ID_Actividad="192">
+  <cliente-maquina ID_Maquina="2" Cantidad="37"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Brielle Jerde" Cuit="223735201" Razon_Social="rhyxknskv" ID_Ciudad="144" ID_Provincia="20" ID_Actividad="54">
+  <cliente-maquina ID_Maquina="5" Cantidad="59"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Bryanna Okuneva" Cuit="781194198" Razon_Social="zu" ID_Ciudad="47" ID_Provincia="6" ID_Actividad="199">
+  <cliente-maquina ID_Maquina="2" Cantidad="99"/>
+ </cliente>
+ <cliente Nombre="Bryant Sauer" Cuit="503294782" Razon_Social="zuefv" ID_Ciudad="30" ID_Provincia="23" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="0" Cantidad="82"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Bryton Quigley" Cuit="785851197" Razon_Social="dr" ID_Ciudad="135" ID_Provincia="7" ID_Actividad="59">
+  <cliente-maquina ID_Maquina="3" Cantidad="62"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Buren Champlin" Cuit="299671547" Razon_Social="g" ID_Ciudad="97" ID_Provincia="16" ID_Actividad="136">
+  <cliente-maquina ID_Maquina="0" Cantidad="71"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Burns Schimmel" Cuit="805461813" Razon_Social="ryrlpvut" ID_Ciudad="111" ID_Provincia="0" ID_Actividad="78">
+  <cliente-maquina ID_Maquina="5" Cantidad="181"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Burrell Weber" Cuit="363363227" Razon_Social="d" ID_Ciudad="83" ID_Provincia="20" ID_Actividad="83">
+  <cliente-maquina ID_Maquina="4" Cantidad="103"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Cannie Toy" Cuit="704881859" Razon_Social="j" ID_Ciudad="139" ID_Provincia="11" ID_Actividad="37">
+  <cliente-maquina ID_Maquina="1" Cantidad="121"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Carina Dibbert" Cuit="422273104" Razon_Social="u" ID_Ciudad="105" ID_Provincia="21" ID_Actividad="129">
+  <cliente-maquina ID_Maquina="2" Cantidad="85"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Carmine Wilkinson" Cuit="141483845" Razon_Social="h" ID_Ciudad="138" ID_Provincia="0" ID_Actividad="160">
+  <cliente-maquina ID_Maquina="1" Cantidad="145"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Carol Stoltenberg" Cuit="381746765" Razon_Social="g" ID_Ciudad="41" ID_Provincia="0" ID_Actividad="30">
+  <cliente-maquina ID_Maquina="4" Cantidad="162"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Carrol Ferry" Cuit="216670974" Razon_Social="luxw" ID_Ciudad="8" ID_Provincia="0" ID_Actividad="128">
+  <cliente-maquina ID_Maquina="3" Cantidad="86"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Cash Welch" Cuit="92464026" Razon_Social="z" ID_Ciudad="93" ID_Provincia="11" ID_Actividad="14">
+  <cliente-maquina ID_Maquina="1" Cantidad="109"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Cayden Blanda" Cuit="487576284" Razon_Social="bb" ID_Ciudad="43" ID_Provincia="19" ID_Actividad="70">
+  <cliente-maquina ID_Maquina="4" Cantidad="144"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Celestine Smitham" Cuit="888373547" Razon_Social="xilwu" ID_Ciudad="28" ID_Provincia="2" ID_Actividad="95">
+  <cliente-maquina ID_Maquina="5" Cantidad="182"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Ceola Cummerata" Cuit="262148253" Razon_Social="fcqev" ID_Ciudad="96" ID_Provincia="6" ID_Actividad="98">
+  <cliente-maquina ID_Maquina="1" Cantidad="100"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Chantelle Howell DVM" Cuit="574980432" Razon_Social="ruckunefrg" ID_Ciudad="105" ID_Provincia="6" ID_Actividad="93">
+  <cliente-maquina ID_Maquina="0" Cantidad="89"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Chantelle Russel" Cuit="590523467" Razon_Social="fxyvgnnot" ID_Ciudad="94" ID_Provincia="7" ID_Actividad="187">
+  <cliente-maquina ID_Maquina="5" Cantidad="100"/>
+  <cliente-maquina ID_Maquina="3" Cantidad="155"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Chantelle Weissnat" Cuit="178998363" Razon_Social="onoq" ID_Ciudad="131" ID_Provincia="18" ID_Actividad="157">
+  <cliente-maquina ID_Maquina="2" Cantidad="139"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Charlton Quitzon" Cuit="87906998" Razon_Social="lv" ID_Ciudad="112" ID_Provincia="4" ID_Actividad="108">
+  <cliente-maquina ID_Maquina="0" Cantidad="26"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Chester Barrows" Cuit="175603717" Razon_Social="bvvbksootp" ID_Ciudad="103" ID_Provincia="4" ID_Actividad="137">
+  <cliente-maquina ID_Maquina="0" Cantidad="34"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Christeen Schoen" Cuit="843702823" Razon_Social="se" ID_Ciudad="85" ID_Provincia="20" ID_Actividad="190">
+  <cliente-maquina ID_Maquina="4" Cantidad="91"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Christel Ullrich" Cuit="566720818" Razon_Social="zu" ID_Ciudad="48" ID_Provincia="1" ID_Actividad="158">
+  <cliente-maquina ID_Maquina="3" Cantidad="158"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Christena Kiehn" Cuit="44897450" Razon_Social="iusagkzal" ID_Ciudad="11" ID_Provincia="17" ID_Actividad="84">
+  <cliente-maquina ID_Maquina="5" Cantidad="124"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Christiana Harris" Cuit="346200135" Razon_Social="gtuy" ID_Ciudad="147" ID_Provincia="14" ID_Actividad="149">
+  <cliente-maquina ID_Maquina="5" Cantidad="69"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Christina Douglas" Cuit="745677682" Razon_Social="pb" ID_Ciudad="110" ID_Provincia="1" ID_Actividad="178">
+  <cliente-maquina ID_Maquina="1" Cantidad="3"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Chuck Schmeler I" Cuit="999267271" Razon_Social="zpupgy" ID_Ciudad="32" ID_Provincia="2" ID_Actividad="40">
+  <cliente-maquina ID_Maquina="2" Cantidad="61"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Cielo Kling" Cuit="468173193" Razon_Social="zizhac" ID_Ciudad="83" ID_Provincia="2" ID_Actividad="142">
+  <cliente-maquina ID_Maquina="1" Cantidad="90"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Clair Treutel" Cuit="524313698" Razon_Social="hj" ID_Ciudad="135" ID_Provincia="18" ID_Actividad="117">
+  <cliente-maquina ID_Maquina="2" Cantidad="170"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Clemente Hessel IV" Cuit="294182123" Razon_Social="f" ID_Ciudad="43" ID_Provincia="14" ID_Actividad="10">
+  <cliente-maquina ID_Maquina="2" Cantidad="20"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Cole Muller" Cuit="106946066" Razon_Social="ghxthpxmof" ID_Ciudad="43" ID_Provincia="11" ID_Actividad="26">
+  <cliente-maquina ID_Maquina="1" Cantidad="102"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Coletta Harris" Cuit="653881768" Razon_Social="jrlpdxoxk" ID_Ciudad="123" ID_Provincia="18" ID_Actividad="149">
+  <cliente-maquina ID_Maquina="5" Cantidad="28"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Colin Daugherty DDS" Cuit="348754610" Razon_Social="izcl" ID_Ciudad="84" ID_Provincia="14" ID_Actividad="171">
+  <cliente-maquina ID_Maquina="3" Cantidad="152"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Collier Dickens" Cuit="702018654" Razon_Social="dl" ID_Ciudad="41" ID_Provincia="16" ID_Actividad="174">
+  <cliente-maquina ID_Maquina="4" Cantidad="193"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Collis Streich" Cuit="756633898" Razon_Social="ejlktucwk" ID_Ciudad="117" ID_Provincia="7" ID_Actividad="161">
+  <cliente-maquina ID_Maquina="1" Cantidad="103"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Colon Gleason" Cuit="334703815" Razon_Social="ygnem" ID_Ciudad="115" ID_Provincia="7" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="1" Cantidad="174"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Colonel Kovacek" Cuit="207384126" Razon_Social="mvckrztpox" ID_Ciudad="118" ID_Provincia="11" ID_Actividad="160">
+  <cliente-maquina ID_Maquina="3" Cantidad="192"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Consuela Casper" Cuit="28698423" Razon_Social="wtuk" ID_Ciudad="3" ID_Provincia="19" ID_Actividad="179">
+  <cliente-maquina ID_Maquina="2" Cantidad="51"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dagmar Lockman PhD" Cuit="599107731" Razon_Social="py" ID_Ciudad="15" ID_Provincia="6" ID_Actividad="1">
+  <cliente-maquina ID_Maquina="5" Cantidad="4"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Dane Welch" Cuit="418696248" Razon_Social="vbcy" ID_Ciudad="60" ID_Provincia="18" ID_Actividad="186">
+  <cliente-maquina ID_Maquina="3" Cantidad="136"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Darryle Metz" Cuit="421058736" Razon_Social="cprongn" ID_Ciudad="42" ID_Provincia="1" ID_Actividad="63">
+  <cliente-maquina ID_Maquina="1" Cantidad="127"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Darvin Dicki" Cuit="812259690" Razon_Social="dekxtforht" ID_Ciudad="120" ID_Provincia="2" ID_Actividad="110">
+  <cliente-maquina ID_Maquina="0" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Daryl Keeling" Cuit="691568762" Razon_Social="bmsog" ID_Ciudad="147" ID_Provincia="15" ID_Actividad="8">
+  <cliente-maquina ID_Maquina="0" Cantidad="126"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Davante Bernier" Cuit="354232180" Razon_Social="dm" ID_Ciudad="6" ID_Provincia="6" ID_Actividad="114">
+  <cliente-maquina ID_Maquina="5" Cantidad="135"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Deane Bahringer Jr " Cuit="189945748" Razon_Social="z" ID_Ciudad="146" ID_Provincia="5" ID_Actividad="74">
+  <cliente-maquina ID_Maquina="3" Cantidad="130"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Deliah Schuster" Cuit="559911261" Razon_Social="nnqyv" ID_Ciudad="57" ID_Provincia="11" ID_Actividad="126">
+  <cliente-maquina ID_Maquina="4" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Delila Kuhlman" Cuit="376804130" Razon_Social="kgwuytnyx" ID_Ciudad="113" ID_Provincia="18" ID_Actividad="123">
+  <cliente-maquina ID_Maquina="1" Cantidad="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Delora Langosh" Cuit="915976133" Razon_Social="l" ID_Ciudad="74" ID_Provincia="2" ID_Actividad="69">
+  <cliente-maquina ID_Maquina="5" Cantidad="188"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Deloris Walsh" Cuit="776265934" Razon_Social="byohai" ID_Ciudad="31" ID_Provincia="3" ID_Actividad="60">
+  <cliente-maquina ID_Maquina="4" Cantidad="93"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Denton Gibson" Cuit="802080421" Razon_Social="pscio" ID_Ciudad="149" ID_Provincia="13" ID_Actividad="145">
+  <cliente-maquina ID_Maquina="0" Cantidad="190"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dequan Goldner DVM" Cuit="768046418" Razon_Social="vhukal" ID_Ciudad="112" ID_Provincia="15" ID_Actividad="61">
+  <cliente-maquina ID_Maquina="1" Cantidad="57"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Derik Cassin" Cuit="218052385" Razon_Social="vdailpbp" ID_Ciudad="37" ID_Provincia="17" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="0" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Derrell Klocko" Cuit="984111562" Razon_Social="agsjqyz" ID_Ciudad="3" ID_Provincia="18" ID_Actividad="169">
+  <cliente-maquina ID_Maquina="0" Cantidad="89"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Destinee Buckridge" Cuit="326957040" Razon_Social="bboczwqu" ID_Ciudad="109" ID_Provincia="12" ID_Actividad="39">
+  <cliente-maquina ID_Maquina="0" Cantidad="135"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Devyn Bailey" Cuit="269595821" Razon_Social="fff" ID_Ciudad="43" ID_Provincia="15" ID_Actividad="58">
+  <cliente-maquina ID_Maquina="0" Cantidad="137"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Diane Nitzsche" Cuit="128609326" Razon_Social="iloh" ID_Ciudad="95" ID_Provincia="10" ID_Actividad="126">
+  <cliente-maquina ID_Maquina="3" Cantidad="0"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Dillon McClure" Cuit="983627303" Razon_Social="dr" ID_Ciudad="70" ID_Provincia="7" ID_Actividad="172">
+  <cliente-maquina ID_Maquina="3" Cantidad="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dimple Watsica" Cuit="891574008" Razon_Social="xu" ID_Ciudad="136" ID_Provincia="17" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="5" Cantidad="152"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Donna Batz PhD" Cuit="474466833" Razon_Social="es" ID_Ciudad="11" ID_Provincia="7" ID_Actividad="30">
+  <cliente-maquina ID_Maquina="2" Cantidad="56"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Dorla Cremin DDS" Cuit="529895965" Razon_Social="ldpdepvehw" ID_Ciudad="8" ID_Provincia="17" ID_Actividad="154">
+  <cliente-maquina ID_Maquina="2" Cantidad="108"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Dorr Hudson" Cuit="35156751" Razon_Social="cmwdixia" ID_Ciudad="35" ID_Provincia="17" ID_Actividad="132">
+  <cliente-maquina ID_Maquina="4" Cantidad="11"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Dr  Akira Rodriguez " Cuit="982474755" Razon_Social="b" ID_Ciudad="112" ID_Provincia="1" ID_Actividad="140">
+  <cliente-maquina ID_Maquina="2" Cantidad="51"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Allan Bradtke MD" Cuit="615479380" Razon_Social="kjpfcv" ID_Ciudad="8" ID_Provincia="13" ID_Actividad="67">
+  <cliente-maquina ID_Maquina="0" Cantidad="155"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Bradford Gleason" Cuit="3445463" Razon_Social="rjvh" ID_Ciudad="76" ID_Provincia="8" ID_Actividad="111">
+  <cliente-maquina ID_Maquina="2" Cantidad="194"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Dr  Cassidy Jenkins " Cuit="851704673" Razon_Social="japym" ID_Ciudad="24" ID_Provincia="11" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="1" Cantidad="29"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Ciera Schmeler" Cuit="292881298" Razon_Social="epjsgb" ID_Ciudad="40" ID_Provincia="23" ID_Actividad="29">
+  <cliente-maquina ID_Maquina="4" Cantidad="198"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Dr  Codie Harber III" Cuit="677968594" Razon_Social="z" ID_Ciudad="136" ID_Provincia="7" ID_Actividad="120">
+  <cliente-maquina ID_Maquina="0" Cantidad="30"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Dr  Colin Jaskolski " Cuit="864953714" Razon_Social="ywwo" ID_Ciudad="5" ID_Provincia="12" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="0" Cantidad="80"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Dangelo Heidenre" Cuit="50350350" Razon_Social="pzjqhoguzc" ID_Ciudad="58" ID_Provincia="16" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="0" Cantidad="101"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Dr  Deb Erdman DDS" Cuit="139902714" Razon_Social="kqmflgipd" ID_Ciudad="32" ID_Provincia="16" ID_Actividad="157">
+  <cliente-maquina ID_Maquina="0" Cantidad="83"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Dr  Delano Wisoky" Cuit="29471331" Razon_Social="rowyazscra" ID_Ciudad="95" ID_Provincia="23" ID_Actividad="177">
+  <cliente-maquina ID_Maquina="5" Cantidad="137"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Dr  Devante Parker P" Cuit="327223861" Razon_Social="h" ID_Ciudad="37" ID_Provincia="3" ID_Actividad="153">
+  <cliente-maquina ID_Maquina="2" Cantidad="120"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Dexter Schinner" Cuit="417507663" Razon_Social="myyklhq" ID_Ciudad="109" ID_Provincia="20" ID_Actividad="78">
+  <cliente-maquina ID_Maquina="0" Cantidad="72"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Dr  Dow Bergnaum III" Cuit="934954722" Razon_Social="uuceg" ID_Ciudad="119" ID_Provincia="6" ID_Actividad="175">
+  <cliente-maquina ID_Maquina="2" Cantidad="145"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Elena Herzog MD" Cuit="69235277" Razon_Social="wrfozsdbvd" ID_Ciudad="19" ID_Provincia="13" ID_Actividad="24">
+  <cliente-maquina ID_Maquina="5" Cantidad="172"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Exa Doyle" Cuit="421887917" Razon_Social="ladtc" ID_Ciudad="96" ID_Provincia="6" ID_Actividad="178">
+  <cliente-maquina ID_Maquina="1" Cantidad="154"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Gaither Blick" Cuit="4488263" Razon_Social="xx" ID_Ciudad="123" ID_Provincia="9" ID_Actividad="29">
+  <cliente-maquina ID_Maquina="5" Cantidad="92"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Dr  Garland Prohaska" Cuit="652486896" Razon_Social="r" ID_Ciudad="136" ID_Provincia="13" ID_Actividad="19">
+  <cliente-maquina ID_Maquina="4" Cantidad="34"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Dr  Ham Bayer III" Cuit="380551464" Razon_Social="tswscruxvw" ID_Ciudad="91" ID_Provincia="23" ID_Actividad="38">
+  <cliente-maquina ID_Maquina="5" Cantidad="75"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Hartley Shanahan" Cuit="284462215" Razon_Social="abx" ID_Ciudad="29" ID_Provincia="0" ID_Actividad="36">
+  <cliente-maquina ID_Maquina="5" Cantidad="117"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Dr  Hollis Lehner" Cuit="483458168" Razon_Social="c" ID_Ciudad="41" ID_Provincia="3" ID_Actividad="125">
+  <cliente-maquina ID_Maquina="0" Cantidad="157"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Dr  Jaden Walter IV" Cuit="452600909" Razon_Social="sbiacq" ID_Ciudad="94" ID_Provincia="14" ID_Actividad="188">
+  <cliente-maquina ID_Maquina="5" Cantidad="110"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Karter Howell" Cuit="706600324" Razon_Social="iomu" ID_Ciudad="1" ID_Provincia="20" ID_Actividad="137">
+  <cliente-maquina ID_Maquina="5" Cantidad="57"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Leigh Maggio" Cuit="566491786" Razon_Social="vbvageztbn" ID_Ciudad="62" ID_Provincia="16" ID_Actividad="41">
+  <cliente-maquina ID_Maquina="5" Cantidad="199"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Dr  Logan Krajcik" Cuit="981304553" Razon_Social="cskjfar" ID_Ciudad="15" ID_Provincia="11" ID_Actividad="195">
+  <cliente-maquina ID_Maquina="0" Cantidad="187"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Dr  Love McDermott" Cuit="504098413" Razon_Social="w" ID_Ciudad="107" ID_Provincia="6" ID_Actividad="3">
+  <cliente-maquina ID_Maquina="1" Cantidad="158"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Luster Will Jr " Cuit="320319374" Razon_Social="zzlomns" ID_Ciudad="119" ID_Provincia="4" ID_Actividad="79">
+  <cliente-maquina ID_Maquina="3" Cantidad="182"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Mandi Altenwerth" Cuit="471533300" Razon_Social="dmmlvfek" ID_Ciudad="9" ID_Provincia="3" ID_Actividad="93">
+  <cliente-maquina ID_Maquina="0" Cantidad="72"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Dr  Meta Goyette DVM" Cuit="718340498" Razon_Social="dr" ID_Ciudad="75" ID_Provincia="18" ID_Actividad="109">
+  <cliente-maquina ID_Maquina="4" Cantidad="125"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Dr  Nikolas Lueilwit" Cuit="533809727" Razon_Social="rletlqn" ID_Ciudad="18" ID_Provincia="22" ID_Actividad="54">
+  <cliente-maquina ID_Maquina="5" Cantidad="63"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Dr  Nyree Dickens" Cuit="812714391" Razon_Social="g" ID_Ciudad="34" ID_Provincia="20" ID_Actividad="51">
+  <cliente-maquina ID_Maquina="5" Cantidad="164"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Dr  Pearley Farrell" Cuit="561397413" Razon_Social="nuiknlfjk" ID_Ciudad="104" ID_Provincia="11" ID_Actividad="80">
+  <cliente-maquina ID_Maquina="5" Cantidad="91"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Dr  Rocco Nitzsche M" Cuit="624614676" Razon_Social="zcnyyo" ID_Ciudad="67" ID_Provincia="6" ID_Actividad="158">
+  <cliente-maquina ID_Maquina="3" Cantidad="63"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Dr  Simone Volkman" Cuit="756028504" Razon_Social="vtaw" ID_Ciudad="93" ID_Provincia="20" ID_Actividad="176">
+  <cliente-maquina ID_Maquina="5" Cantidad="179"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Soledad Beatty D" Cuit="525324928" Razon_Social="vho" ID_Ciudad="115" ID_Provincia="8" ID_Actividad="192">
+  <cliente-maquina ID_Maquina="4" Cantidad="61"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Dr  Victor O Reilly " Cuit="496395440" Razon_Social="xxhngcw" ID_Ciudad="54" ID_Provincia="14" ID_Actividad="28">
+  <cliente-maquina ID_Maquina="0" Cantidad="111"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Dr  Von McCullough P" Cuit="826798176" Razon_Social="op" ID_Ciudad="93" ID_Provincia="7" ID_Actividad="166">
+  <cliente-maquina ID_Maquina="3" Cantidad="168"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Dr  Walker Nienow" Cuit="203584221" Razon_Social="j" ID_Ciudad="35" ID_Provincia="11" ID_Actividad="29">
+  <cliente-maquina ID_Maquina="5" Cantidad="3"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Dr  Willis Frami DDS" Cuit="878714659" Razon_Social="togvnkf" ID_Ciudad="32" ID_Provincia="11" ID_Actividad="145">
+  <cliente-maquina ID_Maquina="3" Cantidad="138"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Dr  Winnie Padberg" Cuit="308611301" Razon_Social="vhcilftjz" ID_Ciudad="65" ID_Provincia="23" ID_Actividad="146">
+  <cliente-maquina ID_Maquina="3" Cantidad="155"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Drew Bechtelar" Cuit="678429865" Razon_Social="ownxtdy" ID_Ciudad="61" ID_Provincia="1" ID_Actividad="38">
+  <cliente-maquina ID_Maquina="4" Cantidad="26"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Eden Bauch DDS" Cuit="354320280" Razon_Social="f" ID_Ciudad="110" ID_Provincia="22" ID_Actividad="54">
+  <cliente-maquina ID_Maquina="4" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Elden Bechtelar" Cuit="110831118" Razon_Social="pzvm" ID_Ciudad="7" ID_Provincia="11" ID_Actividad="49">
+  <cliente-maquina ID_Maquina="2" Cantidad="53"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Eldora Rempel" Cuit="913726918" Razon_Social="riyns" ID_Ciudad="73" ID_Provincia="5" ID_Actividad="73">
+  <cliente-maquina ID_Maquina="3" Cantidad="83"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Eliezer Hodkiewicz M" Cuit="802297814" Razon_Social="ivapjruwkf" ID_Ciudad="57" ID_Provincia="7" ID_Actividad="106">
+  <cliente-maquina ID_Maquina="5" Cantidad="102"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Elmyra Kling" Cuit="778341631" Razon_Social="httvttm" ID_Ciudad="8" ID_Provincia="3" ID_Actividad="79">
+  <cliente-maquina ID_Maquina="5" Cantidad="13"/>
+ </cliente>
+ <cliente Nombre="Emeline Morissette D" Cuit="94953341" Razon_Social="fowajzywtn" ID_Ciudad="34" ID_Provincia="10" ID_Actividad="187">
+  <cliente-maquina ID_Maquina="4" Cantidad="104"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Emit Schroeder" Cuit="803820844" Razon_Social="cfxykhl" ID_Ciudad="119" ID_Provincia="7" ID_Actividad="90">
+  <cliente-maquina ID_Maquina="0" Cantidad="169"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Emmett Stark" Cuit="709784883" Razon_Social="vnouj" ID_Ciudad="31" ID_Provincia="2" ID_Actividad="125">
+  <cliente-maquina ID_Maquina="1" Cantidad="148"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Eugenie Shanahan" Cuit="793991858" Razon_Social="iqsimafhko" ID_Ciudad="125" ID_Provincia="15" ID_Actividad="118">
+  <cliente-maquina ID_Maquina="4" Cantidad="65"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Eula Moen" Cuit="9036953" Razon_Social="c" ID_Ciudad="56" ID_Provincia="5" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="4" Cantidad="51"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Eura Shields" Cuit="993049911" Razon_Social="gztanngtz" ID_Ciudad="43" ID_Provincia="19" ID_Actividad="65">
+  <cliente-maquina ID_Maquina="0" Cantidad="45"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Everet Halvorson" Cuit="513753380" Razon_Social="mkopzijp" ID_Ciudad="99" ID_Provincia="3" ID_Actividad="23">
+  <cliente-maquina ID_Maquina="0" Cantidad="106"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Evita Heller" Cuit="851030390" Razon_Social="svvh" ID_Ciudad="74" ID_Provincia="16" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="2" Cantidad="69"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Fabiola Walter" Cuit="683825332" Razon_Social="hp" ID_Ciudad="147" ID_Provincia="20" ID_Actividad="115">
+  <cliente-maquina ID_Maquina="3" Cantidad="161"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Faron Gutmann" Cuit="381019220" Razon_Social="vcgnv" ID_Ciudad="112" ID_Provincia="2" ID_Actividad="66">
+  <cliente-maquina ID_Maquina="3" Cantidad="33"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Fayette Franecki MD" Cuit="399920248" Razon_Social="onmjlm" ID_Ciudad="83" ID_Provincia="10" ID_Actividad="37">
+  <cliente-maquina ID_Maquina="0" Cantidad="14"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Federico Oberbrunner" Cuit="522705914" Razon_Social="h" ID_Ciudad="124" ID_Provincia="20" ID_Actividad="53">
+  <cliente-maquina ID_Maquina="5" Cantidad="37"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Felicitas Thiel" Cuit="260569527" Razon_Social="pfwsgwpcs" ID_Ciudad="91" ID_Provincia="1" ID_Actividad="30">
+  <cliente-maquina ID_Maquina="4" Cantidad="186"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ferd Auer" Cuit="611502910" Razon_Social="h" ID_Ciudad="86" ID_Provincia="21" ID_Actividad="24">
+  <cliente-maquina ID_Maquina="4" Cantidad="61"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Ferne Abshire" Cuit="523115714" Razon_Social="nx" ID_Ciudad="134" ID_Provincia="4" ID_Actividad="110">
+  <cliente-maquina ID_Maquina="1" Cantidad="87"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Florida Hane" Cuit="261474464" Razon_Social="flsqla" ID_Ciudad="20" ID_Provincia="5" ID_Actividad="170">
+  <cliente-maquina ID_Maquina="1" Cantidad="80"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Floy McClure" Cuit="859718968" Razon_Social="p" ID_Ciudad="123" ID_Provincia="7" ID_Actividad="100">
+  <cliente-maquina ID_Maquina="1" Cantidad="136"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Francesco Powlowski " Cuit="464637006" Razon_Social="mf" ID_Ciudad="26" ID_Provincia="15" ID_Actividad="31">
+  <cliente-maquina ID_Maquina="3" Cantidad="22"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Fulton Lesch" Cuit="809086442" Razon_Social="tnactxkcox" ID_Ciudad="57" ID_Provincia="22" ID_Actividad="169">
+  <cliente-maquina ID_Maquina="3" Cantidad="47"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Garold Rogahn" Cuit="157461350" Razon_Social="sykrzygbag" ID_Ciudad="58" ID_Provincia="18" ID_Actividad="193">
+  <cliente-maquina ID_Maquina="2" Cantidad="27"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Gavin Herman" Cuit="772133383" Razon_Social="lwcstxxb" ID_Ciudad="123" ID_Provincia="11" ID_Actividad="94">
+  <cliente-maquina ID_Maquina="3" Cantidad="127"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Gee Jacobi Sr " Cuit="97871182" Razon_Social="bfzfcmy" ID_Ciudad="116" ID_Provincia="17" ID_Actividad="114">
+  <cliente-maquina ID_Maquina="2" Cantidad="71"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Gerrit Hyatt" Cuit="287345362" Razon_Social="giqt" ID_Ciudad="13" ID_Provincia="2" ID_Actividad="45">
+  <cliente-maquina ID_Maquina="4" Cantidad="22"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Gerry Frami" Cuit="988897939" Razon_Social="rofoqzf" ID_Ciudad="25" ID_Provincia="14" ID_Actividad="38">
+  <cliente-maquina ID_Maquina="4" Cantidad="43"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Gilman Mitchell" Cuit="804419527" Razon_Social="z" ID_Ciudad="121" ID_Provincia="11" ID_Actividad="76">
+  <cliente-maquina ID_Maquina="5" Cantidad="8"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Gladis Streich" Cuit="595387335" Razon_Social="vpmqhvv" ID_Ciudad="116" ID_Provincia="8" ID_Actividad="21">
+  <cliente-maquina ID_Maquina="1" Cantidad="145"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Glen Monahan" Cuit="26548018" Razon_Social="zt" ID_Ciudad="115" ID_Provincia="11" ID_Actividad="118">
+  <cliente-maquina ID_Maquina="3" Cantidad="62"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Golda Botsford" Cuit="453841182" Razon_Social="ruwo" ID_Ciudad="124" ID_Provincia="3" ID_Actividad="115">
+  <cliente-maquina ID_Maquina="5" Cantidad="185"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Grady Kuvalis" Cuit="761434349" Razon_Social="yppmdhd" ID_Ciudad="91" ID_Provincia="2" ID_Actividad="150">
+  <cliente-maquina ID_Maquina="2" Cantidad="15"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Griffin Hayes" Cuit="711541638" Razon_Social="l" ID_Ciudad="26" ID_Provincia="10" ID_Actividad="157">
+  <cliente-maquina ID_Maquina="4" Cantidad="73"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Gunnar Koch" Cuit="144549006" Razon_Social="bobzpvwqsf" ID_Ciudad="40" ID_Provincia="16" ID_Actividad="137">
+  <cliente-maquina ID_Maquina="0" Cantidad="92"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Gustave Legros" Cuit="796972946" Razon_Social="awshbly" ID_Ciudad="98" ID_Provincia="19" ID_Actividad="83">
+  <cliente-maquina ID_Maquina="4" Cantidad="112"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Guthrie Harber" Cuit="694234572" Razon_Social="urky" ID_Ciudad="125" ID_Provincia="22" ID_Actividad="65">
+  <cliente-maquina ID_Maquina="2" Cantidad="167"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Haley Conn" Cuit="358903514" Razon_Social="ef" ID_Ciudad="53" ID_Provincia="10" ID_Actividad="113">
+  <cliente-maquina ID_Maquina="1" Cantidad="97"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ham Stoltenberg" Cuit="969082743" Razon_Social="gkaqw" ID_Ciudad="142" ID_Provincia="17" ID_Actividad="109">
+  <cliente-maquina ID_Maquina="1" Cantidad="117"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Heaven Stehr" Cuit="381961847" Razon_Social="r" ID_Ciudad="45" ID_Provincia="0" ID_Actividad="139">
+  <cliente-maquina ID_Maquina="4" Cantidad="161"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Helena Feil" Cuit="27212455" Razon_Social="fkt" ID_Ciudad="35" ID_Provincia="21" ID_Actividad="120">
+  <cliente-maquina ID_Maquina="5" Cantidad="135"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Helmer Rath" Cuit="499347524" Razon_Social="dkpnxw" ID_Ciudad="4" ID_Provincia="0" ID_Actividad="72">
+  <cliente-maquina ID_Maquina="2" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Hilda West" Cuit="514789191" Razon_Social="bpg" ID_Ciudad="132" ID_Provincia="7" ID_Actividad="150">
+  <cliente-maquina ID_Maquina="1" Cantidad="154"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Hilmer Pouros II" Cuit="655714588" Razon_Social="pf" ID_Ciudad="47" ID_Provincia="1" ID_Actividad="69">
+  <cliente-maquina ID_Maquina="1" Cantidad="113"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Holden Schultz II" Cuit="54313460" Razon_Social="se" ID_Ciudad="31" ID_Provincia="3" ID_Actividad="29">
+  <cliente-maquina ID_Maquina="3" Cantidad="185"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Hope Mayer" Cuit="485462450" Razon_Social="mfizy" ID_Ciudad="56" ID_Provincia="9" ID_Actividad="181">
+  <cliente-maquina ID_Maquina="0" Cantidad="80"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Howard Davis" Cuit="401027210" Razon_Social="ytx" ID_Ciudad="146" ID_Provincia="7" ID_Actividad="4">
+  <cliente-maquina ID_Maquina="4" Cantidad="152"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ila Kirlin" Cuit="303902214" Razon_Social="zpdmjjbn" ID_Ciudad="99" ID_Provincia="1" ID_Actividad="78">
+  <cliente-maquina ID_Maquina="5" Cantidad="108"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Illa Gislason" Cuit="106461779" Razon_Social="vkrqg" ID_Ciudad="94" ID_Provincia="10" ID_Actividad="49">
+  <cliente-maquina ID_Maquina="2" Cantidad="168"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="India Erdman" Cuit="871735253" Razon_Social="x" ID_Ciudad="96" ID_Provincia="14" ID_Actividad="63">
+  <cliente-maquina ID_Maquina="2" Cantidad="177"/>
+ </cliente>
+ <cliente Nombre="Irena Anderson" Cuit="307985741" Razon_Social="yvqulkm" ID_Ciudad="51" ID_Provincia="13" ID_Actividad="29">
+  <cliente-maquina ID_Maquina="5" Cantidad="164"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Irena O Conner PhD" Cuit="666282349" Razon_Social="v" ID_Ciudad="17" ID_Provincia="11" ID_Actividad="83">
+  <cliente-maquina ID_Maquina="1" Cantidad="174"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Irl Spinka III" Cuit="160478525" Razon_Social="xienxgb" ID_Ciudad="95" ID_Provincia="11" ID_Actividad="148">
+  <cliente-maquina ID_Maquina="2" Cantidad="23"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Jacquline Fritsch" Cuit="279276331" Razon_Social="mptrouk" ID_Ciudad="25" ID_Provincia="7" ID_Actividad="68">
+  <cliente-maquina ID_Maquina="2" Cantidad="165"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Jalisa Monahan" Cuit="666416367" Razon_Social="rptxnpc" ID_Ciudad="79" ID_Provincia="4" ID_Actividad="48">
+  <cliente-maquina ID_Maquina="1" Cantidad="70"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Jasen Price II" Cuit="511354948" Razon_Social="ikdpy" ID_Ciudad="88" ID_Provincia="17" ID_Actividad="5">
+  <cliente-maquina ID_Maquina="4" Cantidad="168"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Jason Veum" Cuit="18840847" Razon_Social="uvmfyu" ID_Ciudad="114" ID_Provincia="1" ID_Actividad="95">
+  <cliente-maquina ID_Maquina="0" Cantidad="84"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Jaxen Pacocha Sr " Cuit="381221012" Razon_Social="nd" ID_Ciudad="147" ID_Provincia="18" ID_Actividad="132">
+  <cliente-maquina ID_Maquina="2" Cantidad="34"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Jaycie Weissnat" Cuit="505682604" Razon_Social="lj" ID_Ciudad="131" ID_Provincia="14" ID_Actividad="38">
+  <cliente-maquina ID_Maquina="2" Cantidad="187"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Jaylah McGlynn" Cuit="882695745" Razon_Social="gsn" ID_Ciudad="110" ID_Provincia="6" ID_Actividad="31">
+  <cliente-maquina ID_Maquina="0" Cantidad="94"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Jaylan Eichmann" Cuit="883882919" Razon_Social="orotufqr" ID_Ciudad="23" ID_Provincia="22" ID_Actividad="67">
+  <cliente-maquina ID_Maquina="2" Cantidad="180"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Jayleen Rath MD" Cuit="314466656" Razon_Social="rnpc" ID_Ciudad="77" ID_Provincia="22" ID_Actividad="57">
+  <cliente-maquina ID_Maquina="2" Cantidad="92"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Jaylen Reilly" Cuit="630146184" Razon_Social="qhxdajm" ID_Ciudad="66" ID_Provincia="19" ID_Actividad="100">
+  <cliente-maquina ID_Maquina="3" Cantidad="141"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Jayson Denesik" Cuit="732225578" Razon_Social="erpies" ID_Ciudad="129" ID_Provincia="14" ID_Actividad="163">
+  <cliente-maquina ID_Maquina="5" Cantidad="53"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Jens Reichert" Cuit="546340900" Razon_Social="qggzrxpv" ID_Ciudad="28" ID_Provincia="7" ID_Actividad="1">
+  <cliente-maquina ID_Maquina="3" Cantidad="75"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Jocelyne Satterfield" Cuit="468287591" Razon_Social="ruub" ID_Ciudad="96" ID_Provincia="9" ID_Actividad="168">
+  <cliente-maquina ID_Maquina="4" Cantidad="74"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Jocelynn Collins" Cuit="96952569" Razon_Social="fmb" ID_Ciudad="40" ID_Provincia="1" ID_Actividad="2">
+  <cliente-maquina ID_Maquina="5" Cantidad="4"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Joell Beatty" Cuit="380190442" Razon_Social="ove" ID_Ciudad="144" ID_Provincia="7" ID_Actividad="162">
+  <cliente-maquina ID_Maquina="1" Cantidad="176"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Joey West" Cuit="588625223" Razon_Social="yqja" ID_Ciudad="0" ID_Provincia="8" ID_Actividad="38">
+  <cliente-maquina ID_Maquina="3" Cantidad="108"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Johan Bechtelar" Cuit="984153787" Razon_Social="idk" ID_Ciudad="121" ID_Provincia="6" ID_Actividad="85">
+  <cliente-maquina ID_Maquina="3" Cantidad="73"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Jonah Ortiz" Cuit="954910988" Razon_Social="qxjyup" ID_Ciudad="116" ID_Provincia="21" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="1" Cantidad="4"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Jonell Ernser" Cuit="603579118" Razon_Social="iefbogpv" ID_Ciudad="104" ID_Provincia="16" ID_Actividad="82">
+  <cliente-maquina ID_Maquina="1" Cantidad="115"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Josephus Kreiger" Cuit="564052613" Razon_Social="pxewjre" ID_Ciudad="90" ID_Provincia="5" ID_Actividad="27">
+  <cliente-maquina ID_Maquina="3" Cantidad="152"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Josue Corwin" Cuit="990687594" Razon_Social="jpo" ID_Ciudad="50" ID_Provincia="0" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="0" Cantidad="168"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="June Greenfelder MD" Cuit="268720975" Razon_Social="gefmsnue" ID_Ciudad="131" ID_Provincia="20" ID_Actividad="160">
+  <cliente-maquina ID_Maquina="4" Cantidad="21"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Justen Lemke MD" Cuit="638360437" Razon_Social="xhdvlc" ID_Ciudad="92" ID_Provincia="8" ID_Actividad="105">
+  <cliente-maquina ID_Maquina="4" Cantidad="149"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Karol Bogisich" Cuit="774339459" Razon_Social="smit" ID_Ciudad="19" ID_Provincia="13" ID_Actividad="121">
+  <cliente-maquina ID_Maquina="5" Cantidad="10"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Katerina Koch" Cuit="821586100" Razon_Social="fndiowitn" ID_Ciudad="86" ID_Provincia="2" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="2" Cantidad="198"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Kaylene Monahan" Cuit="258943676" Razon_Social="znqzate" ID_Ciudad="109" ID_Provincia="23" ID_Actividad="153">
+  <cliente-maquina ID_Maquina="4" Cantidad="113"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Keegan Ondricka" Cuit="563202729" Razon_Social="qsnsklmnv" ID_Ciudad="73" ID_Provincia="18" ID_Actividad="133">
+  <cliente-maquina ID_Maquina="1" Cantidad="89"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Keenan Ratke" Cuit="513065355" Razon_Social="pwfal" ID_Ciudad="57" ID_Provincia="5" ID_Actividad="170">
+  <cliente-maquina ID_Maquina="2" Cantidad="125"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Keenen Rice DVM" Cuit="51255856" Razon_Social="jvilwgrg" ID_Ciudad="149" ID_Provincia="8" ID_Actividad="114">
+  <cliente-maquina ID_Maquina="4" Cantidad="94"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Kelan Mayer" Cuit="906828971" Razon_Social="zkvwj" ID_Ciudad="47" ID_Provincia="17" ID_Actividad="57">
+  <cliente-maquina ID_Maquina="5" Cantidad="10"/>
+  <cliente-maquina ID_Maquina="4" Cantidad="136"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Kerrie Treutel" Cuit="928990741" Razon_Social="rrvlwghc" ID_Ciudad="100" ID_Provincia="23" ID_Actividad="24">
+  <cliente-maquina ID_Maquina="3" Cantidad="110"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Kian Zulauf" Cuit="693681990" Razon_Social="mhjsl" ID_Ciudad="137" ID_Provincia="9" ID_Actividad="115">
+  <cliente-maquina ID_Maquina="3" Cantidad="137"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Kiara Fay" Cuit="973669991" Razon_Social="i" ID_Ciudad="72" ID_Provincia="10" ID_Actividad="115">
+  <cliente-maquina ID_Maquina="2" Cantidad="99"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Kiefer Kohler" Cuit="605844296" Razon_Social="xfhrdjpm" ID_Ciudad="46" ID_Provincia="22" ID_Actividad="23">
+  <cliente-maquina ID_Maquina="3" Cantidad="13"/>
+ </cliente>
+ <cliente Nombre="Kirk Olson" Cuit="39442782" Razon_Social="jlgeqv" ID_Ciudad="88" ID_Provincia="7" ID_Actividad="71">
+  <cliente-maquina ID_Maquina="3" Cantidad="153"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Kristina Christianse" Cuit="304443998" Razon_Social="tezrbdva" ID_Ciudad="82" ID_Provincia="12" ID_Actividad="6">
+  <cliente-maquina ID_Maquina="1" Cantidad="47"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Kristine Jenkins" Cuit="999733939" Razon_Social="gyptmi" ID_Ciudad="33" ID_Provincia="15" ID_Actividad="15">
+  <cliente-maquina ID_Maquina="4" Cantidad="111"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Krysta Block DDS" Cuit="363428299" Razon_Social="eizr" ID_Ciudad="149" ID_Provincia="12" ID_Actividad="61">
+  <cliente-maquina ID_Maquina="5" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Kyla Auer" Cuit="462200237" Razon_Social="bwrgfxk" ID_Ciudad="49" ID_Provincia="23" ID_Actividad="164">
+  <cliente-maquina ID_Maquina="2" Cantidad="34"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Kylee Koch" Cuit="939156118" Razon_Social="rgkbzc" ID_Ciudad="58" ID_Provincia="17" ID_Actividad="117">
+  <cliente-maquina ID_Maquina="1" Cantidad="29"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Lacey Sipes" Cuit="124786715" Razon_Social="nu" ID_Ciudad="11" ID_Provincia="1" ID_Actividad="9">
+  <cliente-maquina ID_Maquina="0" Cantidad="0"/>
+ </cliente>
+ <cliente Nombre="Laken Rau" Cuit="198357840" Razon_Social="bkpaxsf" ID_Ciudad="37" ID_Provincia="11" ID_Actividad="51">
+  <cliente-maquina ID_Maquina="5" Cantidad="192"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Lana King" Cuit="837245122" Razon_Social="dhvwvpux" ID_Ciudad="72" ID_Provincia="9" ID_Actividad="84">
+  <cliente-maquina ID_Maquina="3" Cantidad="41"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Lasonya Gislason" Cuit="81666643" Razon_Social="jkloeortj" ID_Ciudad="58" ID_Provincia="21" ID_Actividad="192">
+  <cliente-maquina ID_Maquina="0" Cantidad="1"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Latanya Braun DVM" Cuit="246210334" Razon_Social="irduvwpt" ID_Ciudad="1" ID_Provincia="6" ID_Actividad="84">
+  <cliente-maquina ID_Maquina="2" Cantidad="130"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Lavinia Grant" Cuit="245215771" Razon_Social="nxnv" ID_Ciudad="82" ID_Provincia="17" ID_Actividad="187">
+  <cliente-maquina ID_Maquina="5" Cantidad="47"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Lea Welch" Cuit="216650000" Razon_Social="g" ID_Ciudad="142" ID_Provincia="14" ID_Actividad="80">
+  <cliente-maquina ID_Maquina="0" Cantidad="71"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Leala Wintheiser DDS" Cuit="203645134" Razon_Social="zeddmssw" ID_Ciudad="65" ID_Provincia="22" ID_Actividad="167">
+  <cliente-maquina ID_Maquina="3" Cantidad="31"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Leatha Dooley" Cuit="641005984" Razon_Social="ksv" ID_Ciudad="11" ID_Provincia="11" ID_Actividad="99">
+  <cliente-maquina ID_Maquina="3" Cantidad="68"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Lella Littel" Cuit="99295360" Razon_Social="dkttlfqpk" ID_Ciudad="110" ID_Provincia="17" ID_Actividad="165">
+  <cliente-maquina ID_Maquina="5" Cantidad="57"/>
+  <cliente-maquina ID_Maquina="5" Cantidad="1"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Leonidas Kilback" Cuit="314641741" Razon_Social="il" ID_Ciudad="49" ID_Provincia="10" ID_Actividad="143">
+  <cliente-maquina ID_Maquina="3" Cantidad="189"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Leslee Thiel" Cuit="457539643" Razon_Social="hizgr" ID_Ciudad="35" ID_Provincia="17" ID_Actividad="193">
+  <cliente-maquina ID_Maquina="1" Cantidad="31"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Lettie Jenkins" Cuit="655565879" Razon_Social="dihbkv" ID_Ciudad="25" ID_Provincia="17" ID_Actividad="9">
+  <cliente-maquina ID_Maquina="3" Cantidad="133"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Lige Emmerich" Cuit="818276179" Razon_Social="wcanokim" ID_Ciudad="137" ID_Provincia="21" ID_Actividad="153">
+  <cliente-maquina ID_Maquina="5" Cantidad="190"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Lilah Bosco" Cuit="218852679" Razon_Social="miuu" ID_Ciudad="2" ID_Provincia="17" ID_Actividad="114">
+  <cliente-maquina ID_Maquina="0" Cantidad="138"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Liller Skiles" Cuit="970300292" Razon_Social="ugqrrq" ID_Ciudad="35" ID_Provincia="22" ID_Actividad="130">
+  <cliente-maquina ID_Maquina="5" Cantidad="86"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Lilyan Lueilwitz" Cuit="855694904" Razon_Social="aqtqcrnvb" ID_Ciudad="41" ID_Provincia="11" ID_Actividad="138">
+  <cliente-maquina ID_Maquina="3" Cantidad="165"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Linton Hamill" Cuit="631682586" Razon_Social="opokqpkvlv" ID_Ciudad="94" ID_Provincia="20" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="0" Cantidad="43"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Liston Purdy" Cuit="654614948" Razon_Social="spumklwq" ID_Ciudad="74" ID_Provincia="13" ID_Actividad="173">
+  <cliente-maquina ID_Maquina="5" Cantidad="67"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Lloyd Stamm I" Cuit="35099582" Razon_Social="oink" ID_Ciudad="53" ID_Provincia="1" ID_Actividad="176">
+  <cliente-maquina ID_Maquina="4" Cantidad="45"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Lonzo Schroeder" Cuit="432413627" Razon_Social="bngafha" ID_Ciudad="115" ID_Provincia="10" ID_Actividad="119">
+  <cliente-maquina ID_Maquina="2" Cantidad="158"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Lorenza Miller" Cuit="526956438" Razon_Social="sgk" ID_Ciudad="64" ID_Provincia="12" ID_Actividad="31">
+  <cliente-maquina ID_Maquina="5" Cantidad="67"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Lucy Cormier" Cuit="148476102" Razon_Social="etzky" ID_Ciudad="66" ID_Provincia="18" ID_Actividad="2">
+  <cliente-maquina ID_Maquina="2" Cantidad="200"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Ludwig Schultz" Cuit="923682243" Razon_Social="qg" ID_Ciudad="15" ID_Provincia="15" ID_Actividad="79">
+  <cliente-maquina ID_Maquina="2" Cantidad="99"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Luka Koepp I" Cuit="8650829" Razon_Social="of" ID_Ciudad="76" ID_Provincia="20" ID_Actividad="63">
+  <cliente-maquina ID_Maquina="1" Cantidad="116"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Luverne Green" Cuit="963744068" Razon_Social="dzrnxukee" ID_Ciudad="15" ID_Provincia="0" ID_Actividad="104">
+  <cliente-maquina ID_Maquina="3" Cantidad="7"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Lylah Barrows" Cuit="83337536" Razon_Social="hrmzlltp" ID_Ciudad="114" ID_Provincia="21" ID_Actividad="31">
+  <cliente-maquina ID_Maquina="1" Cantidad="68"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Madilynn Rempel" Cuit="944806769" Razon_Social="czxagvabmt" ID_Ciudad="113" ID_Provincia="21" ID_Actividad="185">
+  <cliente-maquina ID_Maquina="2" Cantidad="100"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Magdalen Grady DDS" Cuit="164872899" Razon_Social="agyujr" ID_Ciudad="94" ID_Provincia="13" ID_Actividad="5">
+  <cliente-maquina ID_Maquina="5" Cantidad="178"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mahala Lind" Cuit="709920739" Razon_Social="pmqudvk" ID_Ciudad="46" ID_Provincia="19" ID_Actividad="184">
+  <cliente-maquina ID_Maquina="0" Cantidad="4"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Makala Haag" Cuit="512910927" Razon_Social="zujnz" ID_Ciudad="7" ID_Provincia="2" ID_Actividad="165">
+  <cliente-maquina ID_Maquina="2" Cantidad="158"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mamie Parker" Cuit="937133670" Razon_Social="qclsrveyhh" ID_Ciudad="80" ID_Provincia="17" ID_Actividad="83">
+  <cliente-maquina ID_Maquina="5" Cantidad="173"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Manerva O Hara" Cuit="393526107" Razon_Social="kkowfno" ID_Ciudad="134" ID_Provincia="23" ID_Actividad="47">
+  <cliente-maquina ID_Maquina="2" Cantidad="35"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mannie Shields" Cuit="725455832" Razon_Social="direprj" ID_Ciudad="30" ID_Provincia="5" ID_Actividad="72">
+  <cliente-maquina ID_Maquina="5" Cantidad="138"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Marcela Yost" Cuit="926230724" Razon_Social="mtx" ID_Ciudad="36" ID_Provincia="10" ID_Actividad="152">
+  <cliente-maquina ID_Maquina="3" Cantidad="141"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Marci Brown" Cuit="353005815" Razon_Social="vxagxkyx" ID_Ciudad="54" ID_Provincia="0" ID_Actividad="54">
+  <cliente-maquina ID_Maquina="2" Cantidad="81"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mariah Littel" Cuit="730967817" Razon_Social="ljyp" ID_Ciudad="145" ID_Provincia="2" ID_Actividad="61">
+  <cliente-maquina ID_Maquina="3" Cantidad="127"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Marius Effertz" Cuit="168878839" Razon_Social="teukcc" ID_Ciudad="57" ID_Provincia="16" ID_Actividad="80">
+  <cliente-maquina ID_Maquina="2" Cantidad="88"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Marlee Kemmer" Cuit="666241182" Razon_Social="bjekytf" ID_Ciudad="28" ID_Provincia="19" ID_Actividad="186">
+  <cliente-maquina ID_Maquina="4" Cantidad="65"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Marlon Cronin" Cuit="826154340" Razon_Social="zikv" ID_Ciudad="137" ID_Provincia="17" ID_Actividad="83">
+  <cliente-maquina ID_Maquina="3" Cantidad="38"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Maryjo Johns" Cuit="71749170" Razon_Social="psev" ID_Ciudad="2" ID_Provincia="5" ID_Actividad="169">
+  <cliente-maquina ID_Maquina="0" Cantidad="129"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mason Reilly" Cuit="10541330" Razon_Social="h" ID_Ciudad="24" ID_Provincia="0" ID_Actividad="59">
+  <cliente-maquina ID_Maquina="0" Cantidad="65"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mathilde Prosacco" Cuit="174933254" Razon_Social="hlpfmg" ID_Ciudad="90" ID_Provincia="8" ID_Actividad="184">
+  <cliente-maquina ID_Maquina="3" Cantidad="199"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Maureen Cronin" Cuit="16343773" Razon_Social="wjwebtwm" ID_Ciudad="115" ID_Provincia="4" ID_Actividad="155">
+  <cliente-maquina ID_Maquina="5" Cantidad="154"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Maximilian Johnston" Cuit="578811610" Razon_Social="pmiivt" ID_Ciudad="15" ID_Provincia="22" ID_Actividad="170">
+  <cliente-maquina ID_Maquina="0" Cantidad="178"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Media Stark" Cuit="108265084" Razon_Social="c" ID_Ciudad="55" ID_Provincia="20" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="3" Cantidad="73"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Melvin Thompson" Cuit="405647133" Razon_Social="tenuh" ID_Ciudad="106" ID_Provincia="1" ID_Actividad="59">
+  <cliente-maquina ID_Maquina="3" Cantidad="51"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Merle Weber" Cuit="362811129" Razon_Social="v" ID_Ciudad="52" ID_Provincia="16" ID_Actividad="80">
+  <cliente-maquina ID_Maquina="4" Cantidad="188"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Miss Andria Bechtela" Cuit="886900061" Razon_Social="ubwlwe" ID_Ciudad="19" ID_Provincia="3" ID_Actividad="14">
+  <cliente-maquina ID_Maquina="2" Cantidad="176"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Miss Ansley Friesen " Cuit="203411160" Razon_Social="kkppigi" ID_Ciudad="129" ID_Provincia="23" ID_Actividad="0">
+  <cliente-maquina ID_Maquina="0" Cantidad="61"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Miss Arlyne Jenkins " Cuit="881407987" Razon_Social="gws" ID_Ciudad="28" ID_Provincia="23" ID_Actividad="93">
+  <cliente-maquina ID_Maquina="1" Cantidad="98"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Miss Benita Ondricka" Cuit="843464578" Razon_Social="slnswrbjqs" ID_Ciudad="32" ID_Provincia="23" ID_Actividad="7">
+  <cliente-maquina ID_Maquina="0" Cantidad="179"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Miss Bettina Hetting" Cuit="10838227" Razon_Social="vgjwlsh" ID_Ciudad="90" ID_Provincia="22" ID_Actividad="150">
+  <cliente-maquina ID_Maquina="5" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Miss Bettye Lubowitz" Cuit="574280749" Razon_Social="o" ID_Ciudad="130" ID_Provincia="17" ID_Actividad="80">
+  <cliente-maquina ID_Maquina="4" Cantidad="61"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Miss Dellar Larkin D" Cuit="505210118" Razon_Social="a" ID_Ciudad="64" ID_Provincia="9" ID_Actividad="40">
+  <cliente-maquina ID_Maquina="0" Cantidad="138"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Miss Doshie Hintz" Cuit="755092189" Razon_Social="abi" ID_Ciudad="61" ID_Provincia="8" ID_Actividad="16">
+  <cliente-maquina ID_Maquina="3" Cantidad="85"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Miss Dosia Marvin" Cuit="158229578" Razon_Social="qjwwt" ID_Ciudad="51" ID_Provincia="2" ID_Actividad="131">
+  <cliente-maquina ID_Maquina="0" Cantidad="3"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Miss Dulce Hane DDS" Cuit="990212106" Razon_Social="mfjs" ID_Ciudad="80" ID_Provincia="22" ID_Actividad="136">
+  <cliente-maquina ID_Maquina="4" Cantidad="27"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Miss Esperanza Boyle" Cuit="828412211" Razon_Social="azkmzuer" ID_Ciudad="82" ID_Provincia="23" ID_Actividad="62">
+  <cliente-maquina ID_Maquina="5" Cantidad="137"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Miss Kayden Cronin" Cuit="319362650" Razon_Social="znx" ID_Ciudad="27" ID_Provincia="16" ID_Actividad="82">
+  <cliente-maquina ID_Maquina="1" Cantidad="186"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Miss Mandi Ratke PhD" Cuit="481395374" Razon_Social="ezorlttw" ID_Ciudad="50" ID_Provincia="18" ID_Actividad="128">
+  <cliente-maquina ID_Maquina="0" Cantidad="173"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Miss Maymie Gulgowsk" Cuit="288784070" Razon_Social="njggwkfhq" ID_Ciudad="6" ID_Provincia="2" ID_Actividad="73">
+  <cliente-maquina ID_Maquina="4" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Miss Sarah Hilll" Cuit="92990818" Razon_Social="z" ID_Ciudad="121" ID_Provincia="6" ID_Actividad="178">
+  <cliente-maquina ID_Maquina="2" Cantidad="170"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Miss Vessie Hackett" Cuit="597272275" Razon_Social="vjl" ID_Ciudad="138" ID_Provincia="12" ID_Actividad="29">
+  <cliente-maquina ID_Maquina="4" Cantidad="12"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mittie Abbott" Cuit="399369268" Razon_Social="lmcnvqjk" ID_Ciudad="25" ID_Provincia="7" ID_Actividad="188">
+  <cliente-maquina ID_Maquina="0" Cantidad="194"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mohamed Kiehn V" Cuit="967273288" Razon_Social="wob" ID_Ciudad="131" ID_Provincia="18" ID_Actividad="176">
+  <cliente-maquina ID_Maquina="0" Cantidad="172"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Monique Bosco" Cuit="480937860" Razon_Social="eahaagbug" ID_Ciudad="61" ID_Provincia="3" ID_Actividad="133">
+  <cliente-maquina ID_Maquina="5" Cantidad="190"/>
+ </cliente>
+ <cliente Nombre="Monroe Crooks MD" Cuit="86278266" Razon_Social="vfkyfmuanp" ID_Ciudad="89" ID_Provincia="15" ID_Actividad="104">
+  <cliente-maquina ID_Maquina="3" Cantidad="119"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mozelle Pollich" Cuit="312379374" Razon_Social="oznnhdhe" ID_Ciudad="42" ID_Provincia="1" ID_Actividad="108">
+  <cliente-maquina ID_Maquina="4" Cantidad="177"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Mr  Andrae Pacocha I" Cuit="642291145" Razon_Social="z" ID_Ciudad="27" ID_Provincia="6" ID_Actividad="49">
+  <cliente-maquina ID_Maquina="5" Cantidad="75"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Mr  Arlis Hamill MD" Cuit="80088957" Razon_Social="czmsa" ID_Ciudad="77" ID_Provincia="20" ID_Actividad="164">
+  <cliente-maquina ID_Maquina="5" Cantidad="98"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Aubrey King MD" Cuit="744434143" Razon_Social="fwujtz" ID_Ciudad="129" ID_Provincia="12" ID_Actividad="199">
+  <cliente-maquina ID_Maquina="4" Cantidad="132"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Bose Corwin Sr " Cuit="687798957" Razon_Social="r" ID_Ciudad="135" ID_Provincia="9" ID_Actividad="0">
+  <cliente-maquina ID_Maquina="5" Cantidad="157"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Chip Kautzer" Cuit="8190256" Razon_Social="ij" ID_Ciudad="125" ID_Provincia="8" ID_Actividad="27">
+  <cliente-maquina ID_Maquina="1" Cantidad="62"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mr  Crockett Wunsch" Cuit="662671822" Razon_Social="x" ID_Ciudad="146" ID_Provincia="1" ID_Actividad="15">
+  <cliente-maquina ID_Maquina="5" Cantidad="186"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mr  Deric Stroman" Cuit="228726342" Razon_Social="p" ID_Ciudad="125" ID_Provincia="18" ID_Actividad="94">
+  <cliente-maquina ID_Maquina="2" Cantidad="70"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Dionte Emard MD" Cuit="235784152" Razon_Social="jukbhyw" ID_Ciudad="111" ID_Provincia="16" ID_Actividad="40">
+  <cliente-maquina ID_Maquina="3" Cantidad="120"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mr  Domingo Dach" Cuit="617648336" Razon_Social="nfvgarwmm" ID_Ciudad="41" ID_Provincia="7" ID_Actividad="3">
+  <cliente-maquina ID_Maquina="1" Cantidad="120"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Mr  Duke Zemlak" Cuit="417394372" Razon_Social="tkxmc" ID_Ciudad="13" ID_Provincia="1" ID_Actividad="192">
+  <cliente-maquina ID_Maquina="4" Cantidad="184"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Efren Morissette" Cuit="841931393" Razon_Social="uesbxbusz" ID_Ciudad="56" ID_Provincia="0" ID_Actividad="162">
+  <cliente-maquina ID_Maquina="2" Cantidad="118"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mr  Elijah Smitham I" Cuit="239639008" Razon_Social="syqik" ID_Ciudad="35" ID_Provincia="8" ID_Actividad="80">
+  <cliente-maquina ID_Maquina="0" Cantidad="25"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mr  Enos Wilderman" Cuit="275272686" Razon_Social="qdrlmpjwh" ID_Ciudad="105" ID_Provincia="5" ID_Actividad="156">
+  <cliente-maquina ID_Maquina="0" Cantidad="169"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mr  Hardin Hegmann I" Cuit="958771691" Razon_Social="me" ID_Ciudad="85" ID_Provincia="18" ID_Actividad="6">
+  <cliente-maquina ID_Maquina="0" Cantidad="161"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Harlie Brown Sr " Cuit="92189671" Razon_Social="d" ID_Ciudad="120" ID_Provincia="4" ID_Actividad="93">
+  <cliente-maquina ID_Maquina="5" Cantidad="155"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Mr  Haskell Johns Jr" Cuit="507157662" Razon_Social="ibopwbnqk" ID_Ciudad="81" ID_Provincia="20" ID_Actividad="25">
+  <cliente-maquina ID_Maquina="4" Cantidad="186"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Haywood Marks" Cuit="261102961" Razon_Social="itlqcdva" ID_Ciudad="103" ID_Provincia="19" ID_Actividad="110">
+  <cliente-maquina ID_Maquina="2" Cantidad="26"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mr  Hervey Senger" Cuit="341543815" Razon_Social="b" ID_Ciudad="18" ID_Provincia="14" ID_Actividad="193">
+  <cliente-maquina ID_Maquina="5" Cantidad="78"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Mr  Hughes Fadel" Cuit="609871903" Razon_Social="rhoh" ID_Ciudad="66" ID_Provincia="23" ID_Actividad="131">
+  <cliente-maquina ID_Maquina="1" Cantidad="152"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Isadore Lakin II" Cuit="930503909" Razon_Social="bjjtzr" ID_Ciudad="28" ID_Provincia="20" ID_Actividad="69">
+  <cliente-maquina ID_Maquina="0" Cantidad="141"/>
+ </cliente>
+ <cliente Nombre="Mr  Jasper Fahey" Cuit="365315307" Razon_Social="grkz" ID_Ciudad="123" ID_Provincia="0" ID_Actividad="42">
+  <cliente-maquina ID_Maquina="4" Cantidad="173"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mr  Jerrell Herzog" Cuit="900097727" Razon_Social="qiouqtmb" ID_Ciudad="15" ID_Provincia="17" ID_Actividad="19">
+  <cliente-maquina ID_Maquina="1" Cantidad="16"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Mr  Juston Kutch" Cuit="597611587" Razon_Social="erwmbj" ID_Ciudad="94" ID_Provincia="8" ID_Actividad="138">
+  <cliente-maquina ID_Maquina="5" Cantidad="163"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mr  Leonce Hermiston" Cuit="72048653" Razon_Social="epxptfrbpi" ID_Ciudad="58" ID_Provincia="10" ID_Actividad="194">
+  <cliente-maquina ID_Maquina="5" Cantidad="142"/>
+  <cliente-maquina ID_Maquina="5" Cantidad="24"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Lesley Reichert " Cuit="787107444" Razon_Social="ihbqwkjo" ID_Ciudad="12" ID_Provincia="2" ID_Actividad="23">
+  <cliente-maquina ID_Maquina="3" Cantidad="103"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mr  Lindy O Reilly V" Cuit="225826912" Razon_Social="isccgnsc" ID_Ciudad="78" ID_Provincia="4" ID_Actividad="90">
+  <cliente-maquina ID_Maquina="1" Cantidad="105"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Lorne Jakubowski" Cuit="83812018" Razon_Social="kq" ID_Ciudad="54" ID_Provincia="9" ID_Actividad="162">
+  <cliente-maquina ID_Maquina="0" Cantidad="100"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mr  Marland Treutel " Cuit="633273689" Razon_Social="rpkhjlui" ID_Ciudad="92" ID_Provincia="2" ID_Actividad="116">
+  <cliente-maquina ID_Maquina="0" Cantidad="179"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mr  Mateo Wilkinson " Cuit="785073545" Razon_Social="u" ID_Ciudad="112" ID_Provincia="23" ID_Actividad="161">
+  <cliente-maquina ID_Maquina="3" Cantidad="73"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mr  Murry Hettinger " Cuit="396631108" Razon_Social="lfkzn" ID_Ciudad="62" ID_Provincia="1" ID_Actividad="85">
+  <cliente-maquina ID_Maquina="3" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Mychal Friesen" Cuit="170489241" Razon_Social="ydxyevng" ID_Ciudad="6" ID_Provincia="18" ID_Actividad="189">
+  <cliente-maquina ID_Maquina="0" Cantidad="148"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Myrtle Kohler DV" Cuit="134436302" Razon_Social="afxg" ID_Ciudad="94" ID_Provincia="11" ID_Actividad="118">
+  <cliente-maquina ID_Maquina="0" Cantidad="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mr  Ocie Dibbert" Cuit="75386989" Razon_Social="dqftrlo" ID_Ciudad="114" ID_Provincia="9" ID_Actividad="116">
+  <cliente-maquina ID_Maquina="2" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mr  Ott Cronin" Cuit="753668805" Razon_Social="ewhetda" ID_Ciudad="117" ID_Provincia="9" ID_Actividad="130">
+  <cliente-maquina ID_Maquina="3" Cantidad="49"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mr  Rosario Kutch I" Cuit="692241387" Razon_Social="bgyewfr" ID_Ciudad="32" ID_Provincia="2" ID_Actividad="14">
+  <cliente-maquina ID_Maquina="0" Cantidad="48"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Mr  Silas Hammes DVM" Cuit="678937194" Razon_Social="ohxjvforf" ID_Ciudad="45" ID_Provincia="10" ID_Actividad="118">
+  <cliente-maquina ID_Maquina="2" Cantidad="140"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Mr  Spurgeon Kub" Cuit="806899394" Razon_Social="zmfulwj" ID_Ciudad="111" ID_Provincia="16" ID_Actividad="143">
+  <cliente-maquina ID_Maquina="3" Cantidad="39"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mr  Tavaris Jacobson" Cuit="400877508" Razon_Social="hfr" ID_Ciudad="114" ID_Provincia="1" ID_Actividad="7">
+  <cliente-maquina ID_Maquina="2" Cantidad="70"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mr  Trevin Lesch" Cuit="331695359" Razon_Social="zmholeo" ID_Ciudad="24" ID_Provincia="14" ID_Actividad="40">
+  <cliente-maquina ID_Maquina="4" Cantidad="58"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Mr  Williams Maggio " Cuit="846153841" Razon_Social="cteiddk" ID_Ciudad="148" ID_Provincia="15" ID_Actividad="197">
+  <cliente-maquina ID_Maquina="0" Cantidad="57"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mrs  Adela Muller DD" Cuit="739823942" Razon_Social="fgk" ID_Ciudad="25" ID_Provincia="2" ID_Actividad="165">
+  <cliente-maquina ID_Maquina="5" Cantidad="188"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mrs  Alisha Rolfson" Cuit="545730554" Razon_Social="tqd" ID_Ciudad="35" ID_Provincia="3" ID_Actividad="141">
+  <cliente-maquina ID_Maquina="0" Cantidad="70"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mrs  Ardella Reilly " Cuit="770009403" Razon_Social="fiqzyhpkmt" ID_Ciudad="15" ID_Provincia="15" ID_Actividad="24">
+  <cliente-maquina ID_Maquina="5" Cantidad="47"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mrs  Beryl Dickens D" Cuit="893973973" Razon_Social="xkjizueyyn" ID_Ciudad="91" ID_Provincia="12" ID_Actividad="148">
+  <cliente-maquina ID_Maquina="4" Cantidad="183"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Mrs  Danita Wyman" Cuit="258980868" Razon_Social="ccz" ID_Ciudad="143" ID_Provincia="12" ID_Actividad="136">
+  <cliente-maquina ID_Maquina="3" Cantidad="9"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Mrs  Emilee Gorczany" Cuit="121532609" Razon_Social="soquyix" ID_Ciudad="75" ID_Provincia="17" ID_Actividad="146">
+  <cliente-maquina ID_Maquina="5" Cantidad="21"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Mrs  Freddie Weimann" Cuit="916344191" Razon_Social="tq" ID_Ciudad="27" ID_Provincia="9" ID_Actividad="116">
+  <cliente-maquina ID_Maquina="1" Cantidad="5"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mrs  Kellee Walter" Cuit="391173587" Razon_Social="rrcdesh" ID_Ciudad="33" ID_Provincia="23" ID_Actividad="72">
+  <cliente-maquina ID_Maquina="3" Cantidad="14"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mrs  Latoyia Berge" Cuit="661207273" Razon_Social="zcesvykbh" ID_Ciudad="129" ID_Provincia="8" ID_Actividad="25">
+  <cliente-maquina ID_Maquina="2" Cantidad="93"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Mrs  Mell Bayer MD" Cuit="907826873" Razon_Social="ltitrhnug" ID_Ciudad="93" ID_Provincia="12" ID_Actividad="82">
+  <cliente-maquina ID_Maquina="1" Cantidad="63"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mrs  Metha Ortiz" Cuit="696403529" Razon_Social="l" ID_Ciudad="45" ID_Provincia="5" ID_Actividad="141">
+  <cliente-maquina ID_Maquina="5" Cantidad="118"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Mrs  Olene Anderson " Cuit="113391844" Razon_Social="dppwh" ID_Ciudad="106" ID_Provincia="5" ID_Actividad="59">
+  <cliente-maquina ID_Maquina="1" Cantidad="138"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mrs  Olene Beatty" Cuit="481941332" Razon_Social="sac" ID_Ciudad="47" ID_Provincia="5" ID_Actividad="2">
+  <cliente-maquina ID_Maquina="5" Cantidad="67"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Mrs  Rae Moen MD" Cuit="265261490" Razon_Social="ks" ID_Ciudad="58" ID_Provincia="18" ID_Actividad="141">
+  <cliente-maquina ID_Maquina="3" Cantidad="194"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Mrs  Tiffani Maggio" Cuit="361097475" Razon_Social="oqk" ID_Ciudad="140" ID_Provincia="23" ID_Actividad="16">
+  <cliente-maquina ID_Maquina="5" Cantidad="55"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ms  Aliana Langworth" Cuit="963561750" Razon_Social="somutnr" ID_Ciudad="94" ID_Provincia="23" ID_Actividad="10">
+  <cliente-maquina ID_Maquina="1" Cantidad="100"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ms  Araceli Casper D" Cuit="237121743" Razon_Social="osukue" ID_Ciudad="66" ID_Provincia="6" ID_Actividad="22">
+  <cliente-maquina ID_Maquina="5" Cantidad="29"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Ms  Cara Legros DVM" Cuit="213832131" Razon_Social="rnexszzeih" ID_Ciudad="96" ID_Provincia="11" ID_Actividad="35">
+  <cliente-maquina ID_Maquina="1" Cantidad="193"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ms  Cinnamon Torp" Cuit="700420005" Razon_Social="rpdf" ID_Ciudad="39" ID_Provincia="12" ID_Actividad="65">
+  <cliente-maquina ID_Maquina="0" Cantidad="63"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ms  Exa Nikolaus" Cuit="497411027" Razon_Social="qzaamg" ID_Ciudad="43" ID_Provincia="13" ID_Actividad="121">
+  <cliente-maquina ID_Maquina="3" Cantidad="6"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ms  Haylie Altenwert" Cuit="10230265" Razon_Social="vwl" ID_Ciudad="129" ID_Provincia="8" ID_Actividad="135">
+  <cliente-maquina ID_Maquina="2" Cantidad="47"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Ms  Joseline Little" Cuit="274449214" Razon_Social="fq" ID_Ciudad="16" ID_Provincia="18" ID_Actividad="63">
+  <cliente-maquina ID_Maquina="5" Cantidad="175"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Ms  Kaylie Rau PhD" Cuit="179119640" Razon_Social="vegudh" ID_Ciudad="26" ID_Provincia="23" ID_Actividad="28">
+  <cliente-maquina ID_Maquina="4" Cantidad="83"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ms  Lacey Schinner D" Cuit="769381163" Razon_Social="mxzm" ID_Ciudad="1" ID_Provincia="5" ID_Actividad="53">
+  <cliente-maquina ID_Maquina="1" Cantidad="171"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ms  Loren Buckridge " Cuit="483347449" Razon_Social="emviaeyqv" ID_Ciudad="82" ID_Provincia="23" ID_Actividad="140">
+  <cliente-maquina ID_Maquina="2" Cantidad="197"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Ms  Lucy Runte DDS" Cuit="908775247" Razon_Social="w" ID_Ciudad="113" ID_Provincia="21" ID_Actividad="121">
+  <cliente-maquina ID_Maquina="4" Cantidad="172"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ms  Marleigh Mayer D" Cuit="19880098" Razon_Social="gciumojfa" ID_Ciudad="77" ID_Provincia="4" ID_Actividad="27">
+  <cliente-maquina ID_Maquina="3" Cantidad="86"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ms  Maryanne Murray" Cuit="492633467" Razon_Social="qdyelc" ID_Ciudad="47" ID_Provincia="22" ID_Actividad="166">
+  <cliente-maquina ID_Maquina="5" Cantidad="74"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ms  Michelle Lehner" Cuit="804413104" Razon_Social="ym" ID_Ciudad="126" ID_Provincia="0" ID_Actividad="126">
+  <cliente-maquina ID_Maquina="0" Cantidad="62"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Ms  Mona Walker PhD" Cuit="618170905" Razon_Social="ulef" ID_Ciudad="124" ID_Provincia="22" ID_Actividad="77">
+  <cliente-maquina ID_Maquina="3" Cantidad="106"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Ms  Pamala Heller Ph" Cuit="928687902" Razon_Social="qdjjwbdsi" ID_Ciudad="116" ID_Provincia="3" ID_Actividad="23">
+  <cliente-maquina ID_Maquina="2" Cantidad="160"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ms  Precious Kulas D" Cuit="909526406" Razon_Social="yjthayn" ID_Ciudad="46" ID_Provincia="6" ID_Actividad="15">
+  <cliente-maquina ID_Maquina="2" Cantidad="15"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Ms  Ruth Ebert" Cuit="8597310" Razon_Social="axo" ID_Ciudad="15" ID_Provincia="10" ID_Actividad="141">
+  <cliente-maquina ID_Maquina="4" Cantidad="192"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ms  Savannah Weber" Cuit="987678962" Razon_Social="udsismli" ID_Ciudad="146" ID_Provincia="12" ID_Actividad="118">
+  <cliente-maquina ID_Maquina="0" Cantidad="158"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Ms  Shanice Hagenes " Cuit="988716400" Razon_Social="rahamkvxnm" ID_Ciudad="21" ID_Provincia="19" ID_Actividad="129">
+  <cliente-maquina ID_Maquina="3" Cantidad="127"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ms  Tomeka Keebler M" Cuit="948670221" Razon_Social="zi" ID_Ciudad="83" ID_Provincia="20" ID_Actividad="187">
+  <cliente-maquina ID_Maquina="3" Cantidad="12"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Mykel Denesik" Cuit="456685687" Razon_Social="qgtcfmghnk" ID_Ciudad="41" ID_Provincia="17" ID_Actividad="92">
+  <cliente-maquina ID_Maquina="4" Cantidad="188"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Myrtice Gutmann" Cuit="143229174" Razon_Social="ovbyvzquy" ID_Ciudad="19" ID_Provincia="3" ID_Actividad="66">
+  <cliente-maquina ID_Maquina="0" Cantidad="167"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Myrtice Jakubowski P" Cuit="653429454" Razon_Social="yuicn" ID_Ciudad="109" ID_Provincia="14" ID_Actividad="150">
+  <cliente-maquina ID_Maquina="0" Cantidad="179"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Napoleon Satterfield" Cuit="357591479" Razon_Social="alnv" ID_Ciudad="58" ID_Provincia="8" ID_Actividad="198">
+  <cliente-maquina ID_Maquina="0" Cantidad="57"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Natasha Wintheiser M" Cuit="168821479" Razon_Social="d" ID_Ciudad="121" ID_Provincia="12" ID_Actividad="51">
+  <cliente-maquina ID_Maquina="5" Cantidad="42"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Neal Leannon" Cuit="377366691" Razon_Social="bodnrjea" ID_Ciudad="95" ID_Provincia="19" ID_Actividad="82">
+  <cliente-maquina ID_Maquina="2" Cantidad="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Neha Hessel" Cuit="476552454" Razon_Social="blfbnpv" ID_Ciudad="6" ID_Provincia="7" ID_Actividad="125">
+  <cliente-maquina ID_Maquina="2" Cantidad="15"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Nelle Grimes" Cuit="25106499" Razon_Social="xem" ID_Ciudad="48" ID_Provincia="20" ID_Actividad="174">
+  <cliente-maquina ID_Maquina="0" Cantidad="38"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Nereida Ratke DDS" Cuit="590708714" Razon_Social="bcnedqqqy" ID_Ciudad="123" ID_Provincia="11" ID_Actividad="121">
+  <cliente-maquina ID_Maquina="1" Cantidad="65"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Nevada Bailey" Cuit="566414921" Razon_Social="nqbzvvby" ID_Ciudad="149" ID_Provincia="6" ID_Actividad="18">
+  <cliente-maquina ID_Maquina="1" Cantidad="16"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Nichole Larson" Cuit="181942240" Razon_Social="k" ID_Ciudad="6" ID_Provincia="20" ID_Actividad="162">
+  <cliente-maquina ID_Maquina="1" Cantidad="142"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Norene Schumm MD" Cuit="385159196" Razon_Social="oyxoqqfkjy" ID_Ciudad="33" ID_Provincia="5" ID_Actividad="145">
+  <cliente-maquina ID_Maquina="4" Cantidad="124"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Normand Langworth" Cuit="283016540" Razon_Social="ozlemcgt" ID_Ciudad="49" ID_Provincia="9" ID_Actividad="89">
+  <cliente-maquina ID_Maquina="0" Cantidad="150"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Odie Bosco" Cuit="60760091" Razon_Social="cquispapc" ID_Ciudad="14" ID_Provincia="4" ID_Actividad="189">
+  <cliente-maquina ID_Maquina="1" Cantidad="191"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Olena Homenick" Cuit="114434759" Razon_Social="ctmr" ID_Ciudad="94" ID_Provincia="15" ID_Actividad="141">
+  <cliente-maquina ID_Maquina="5" Cantidad="125"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Oral Berge" Cuit="202467614" Razon_Social="npkpqfzjcx" ID_Ciudad="147" ID_Provincia="19" ID_Actividad="173">
+  <cliente-maquina ID_Maquina="4" Cantidad="195"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Orla Balistreri" Cuit="104388703" Razon_Social="jkkvni" ID_Ciudad="145" ID_Provincia="14" ID_Actividad="3">
+  <cliente-maquina ID_Maquina="2" Cantidad="192"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Orra Bins" Cuit="896774225" Razon_Social="jxajebwab" ID_Ciudad="146" ID_Provincia="7" ID_Actividad="172">
+  <cliente-maquina ID_Maquina="3" Cantidad="108"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Orvil Goodwin" Cuit="638725482" Razon_Social="wpbesr" ID_Ciudad="50" ID_Provincia="10" ID_Actividad="187">
+  <cliente-maquina ID_Maquina="3" Cantidad="108"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Orville Aufderhar" Cuit="727525562" Razon_Social="ykjiwkwlnw" ID_Ciudad="147" ID_Provincia="18" ID_Actividad="188">
+  <cliente-maquina ID_Maquina="2" Cantidad="67"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Orvin Mraz" Cuit="52436836" Razon_Social="s" ID_Ciudad="86" ID_Provincia="17" ID_Actividad="44">
+  <cliente-maquina ID_Maquina="4" Cantidad="129"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Ozie Lemke" Cuit="753732696" Razon_Social="okefreei" ID_Ciudad="119" ID_Provincia="1" ID_Actividad="68">
+  <cliente-maquina ID_Maquina="0" Cantidad="26"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Parker Wilkinson" Cuit="309500865" Razon_Social="qgg" ID_Ciudad="58" ID_Provincia="11" ID_Actividad="90">
+  <cliente-maquina ID_Maquina="5" Cantidad="94"/>
+ </cliente>
+ <cliente Nombre="Pascal Abshire" Cuit="525541443" Razon_Social="zhmau" ID_Ciudad="77" ID_Provincia="17" ID_Actividad="47">
+  <cliente-maquina ID_Maquina="4" Cantidad="34"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Patricia Kuhn DVM" Cuit="376683594" Razon_Social="ifyhwsjx" ID_Ciudad="10" ID_Provincia="10" ID_Actividad="11">
+  <cliente-maquina ID_Maquina="0" Cantidad="168"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Peggy Balistreri" Cuit="336800534" Razon_Social="c" ID_Ciudad="31" ID_Provincia="14" ID_Actividad="188">
+  <cliente-maquina ID_Maquina="4" Cantidad="98"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Pinkey Schneider MD" Cuit="213073313" Razon_Social="d" ID_Ciudad="87" ID_Provincia="1" ID_Actividad="33">
+  <cliente-maquina ID_Maquina="2" Cantidad="196"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Pryor Beier" Cuit="524035881" Razon_Social="qh" ID_Ciudad="138" ID_Provincia="3" ID_Actividad="109">
+  <cliente-maquina ID_Maquina="1" Cantidad="124"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Quinn Kunde" Cuit="170828265" Razon_Social="zzpri" ID_Ciudad="64" ID_Provincia="9" ID_Actividad="9">
+  <cliente-maquina ID_Maquina="4" Cantidad="130"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Quinn Pagac" Cuit="770745061" Razon_Social="jypfutrty" ID_Ciudad="129" ID_Provincia="2" ID_Actividad="51">
+  <cliente-maquina ID_Maquina="5" Cantidad="169"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Rafaela Harris" Cuit="860919521" Razon_Social="sztryh" ID_Ciudad="116" ID_Provincia="8" ID_Actividad="137">
+  <cliente-maquina ID_Maquina="5" Cantidad="65"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Ralph Schaefer I" Cuit="545974971" Razon_Social="aviqynskah" ID_Ciudad="121" ID_Provincia="17" ID_Actividad="96">
+  <cliente-maquina ID_Maquina="4" Cantidad="158"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Rance Weissnat Jr " Cuit="767826214" Razon_Social="wuecnl" ID_Ciudad="127" ID_Provincia="21" ID_Actividad="102">
+  <cliente-maquina ID_Maquina="1" Cantidad="48"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Randy Buckridge" Cuit="672558128" Razon_Social="nea" ID_Ciudad="66" ID_Provincia="0" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="3" Cantidad="65"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Rayan Thompson" Cuit="10646737" Razon_Social="kkbsghm" ID_Ciudad="78" ID_Provincia="21" ID_Actividad="134">
+  <cliente-maquina ID_Maquina="2" Cantidad="127"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Red Boyle" Cuit="470971571" Razon_Social="f" ID_Ciudad="144" ID_Provincia="13" ID_Actividad="11">
+  <cliente-maquina ID_Maquina="3" Cantidad="78"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Reed Marquardt IV" Cuit="441679266" Razon_Social="rpnfnf" ID_Ciudad="140" ID_Provincia="23" ID_Actividad="185">
+  <cliente-maquina ID_Maquina="2" Cantidad="126"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Rillie Langosh" Cuit="866650267" Razon_Social="kot" ID_Ciudad="8" ID_Provincia="21" ID_Actividad="81">
+  <cliente-maquina ID_Maquina="3" Cantidad="25"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Riya Lubowitz" Cuit="193811815" Razon_Social="rumbwrffdr" ID_Ciudad="110" ID_Provincia="0" ID_Actividad="82">
+  <cliente-maquina ID_Maquina="2" Cantidad="51"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Roberto Davis" Cuit="451349918" Razon_Social="i" ID_Ciudad="53" ID_Provincia="10" ID_Actividad="104">
+  <cliente-maquina ID_Maquina="2" Cantidad="118"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Robley Cummings" Cuit="446573977" Razon_Social="krcqzy" ID_Ciudad="107" ID_Provincia="11" ID_Actividad="109">
+  <cliente-maquina ID_Maquina="2" Cantidad="97"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Rocco Harber" Cuit="469459262" Razon_Social="qm" ID_Ciudad="145" ID_Provincia="12" ID_Actividad="135">
+  <cliente-maquina ID_Maquina="4" Cantidad="72"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Roddy Franecki" Cuit="608817008" Razon_Social="ruxpvvlpc" ID_Ciudad="140" ID_Provincia="15" ID_Actividad="174">
+  <cliente-maquina ID_Maquina="2" Cantidad="50"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Rodrick Becker" Cuit="902520774" Razon_Social="poocsadgli" ID_Ciudad="39" ID_Provincia="10" ID_Actividad="195">
+  <cliente-maquina ID_Maquina="0" Cantidad="184"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ronaldo Aufderhar" Cuit="722702465" Razon_Social="jdmoraodq" ID_Ciudad="2" ID_Provincia="1" ID_Actividad="22">
+  <cliente-maquina ID_Maquina="5" Cantidad="100"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ronnie Hoppe" Cuit="456559244" Razon_Social="qpheussal" ID_Ciudad="113" ID_Provincia="9" ID_Actividad="198">
+  <cliente-maquina ID_Maquina="1" Cantidad="129"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Ronnie Lind" Cuit="115262552" Razon_Social="ojlwfrs" ID_Ciudad="65" ID_Provincia="10" ID_Actividad="119">
+  <cliente-maquina ID_Maquina="3" Cantidad="33"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Ruthie Fay" Cuit="851591475" Razon_Social="tvdtppvdpn" ID_Ciudad="9" ID_Provincia="6" ID_Actividad="6">
+  <cliente-maquina ID_Maquina="0" Cantidad="38"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Sage Legros" Cuit="828405046" Razon_Social="i" ID_Ciudad="36" ID_Provincia="20" ID_Actividad="147">
+  <cliente-maquina ID_Maquina="2" Cantidad="8"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Sage Wiegand" Cuit="648678917" Razon_Social="avfyua" ID_Ciudad="71" ID_Provincia="8" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="0" Cantidad="27"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Sandy Maggio" Cuit="282699918" Razon_Social="wetuidhyxq" ID_Ciudad="32" ID_Provincia="12" ID_Actividad="33">
+  <cliente-maquina ID_Maquina="5" Cantidad="112"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Schuyler Wilkinson" Cuit="574819727" Razon_Social="fbepzyi" ID_Ciudad="40" ID_Provincia="9" ID_Actividad="93">
+  <cliente-maquina ID_Maquina="4" Cantidad="96"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Seneca Waelchi" Cuit="433566487" Razon_Social="ncfbiqjdfi" ID_Ciudad="76" ID_Provincia="21" ID_Actividad="117">
+  <cliente-maquina ID_Maquina="2" Cantidad="26"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Shalon Denesik" Cuit="285688682" Razon_Social="ecmvyvvpo" ID_Ciudad="108" ID_Provincia="2" ID_Actividad="16">
+  <cliente-maquina ID_Maquina="0" Cantidad="98"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Shalon Konopelski" Cuit="529793055" Razon_Social="ezg" ID_Ciudad="5" ID_Provincia="23" ID_Actividad="103">
+  <cliente-maquina ID_Maquina="4" Cantidad="122"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Shaniqua Ryan" Cuit="30872930" Razon_Social="rg" ID_Ciudad="145" ID_Provincia="17" ID_Actividad="191">
+  <cliente-maquina ID_Maquina="3" Cantidad="142"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Shannon Heathcote" Cuit="717761466" Razon_Social="wsyxpfofpe" ID_Ciudad="1" ID_Provincia="1" ID_Actividad="192">
+  <cliente-maquina ID_Maquina="0" Cantidad="157"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+ </cliente>
+ <cliente Nombre="Shannon Jast MD" Cuit="297811433" Razon_Social="hdqiruoa" ID_Ciudad="44" ID_Provincia="3" ID_Actividad="177">
+  <cliente-maquina ID_Maquina="1" Cantidad="75"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Shaquan Batz DDS" Cuit="554333321" Razon_Social="cms" ID_Ciudad="22" ID_Provincia="8" ID_Actividad="158">
+  <cliente-maquina ID_Maquina="5" Cantidad="144"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Shaquana Wisoky" Cuit="424942019" Razon_Social="jgd" ID_Ciudad="17" ID_Provincia="18" ID_Actividad="83">
+  <cliente-maquina ID_Maquina="3" Cantidad="117"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Sharyl VonRueden MD" Cuit="338963116" Razon_Social="vqdzcsr" ID_Ciudad="87" ID_Provincia="13" ID_Actividad="91">
+  <cliente-maquina ID_Maquina="5" Cantidad="114"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Shelley Oberbrunner" Cuit="658864260" Razon_Social="naoytv" ID_Ciudad="61" ID_Provincia="16" ID_Actividad="191">
+  <cliente-maquina ID_Maquina="5" Cantidad="122"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Shepherd Williamson" Cuit="554545954" Razon_Social="dmremldh" ID_Ciudad="93" ID_Provincia="2" ID_Actividad="60">
+  <cliente-maquina ID_Maquina="3" Cantidad="78"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Sheridan Nicolas" Cuit="322178243" Razon_Social="a" ID_Ciudad="53" ID_Provincia="6" ID_Actividad="17">
+  <cliente-maquina ID_Maquina="5" Cantidad="49"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Sherilyn Stoltenberg" Cuit="591316251" Razon_Social="sjrteymf" ID_Ciudad="40" ID_Provincia="8" ID_Actividad="57">
+  <cliente-maquina ID_Maquina="5" Cantidad="100"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Sherri Okuneva" Cuit="424102309" Razon_Social="asjcwm" ID_Ciudad="86" ID_Provincia="4" ID_Actividad="149">
+  <cliente-maquina ID_Maquina="0" Cantidad="126"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Sherrie Muller" Cuit="35549085" Razon_Social="l" ID_Ciudad="93" ID_Provincia="3" ID_Actividad="134">
+  <cliente-maquina ID_Maquina="5" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Shianne Donnelly PhD" Cuit="228284001" Razon_Social="bouyxjk" ID_Ciudad="0" ID_Provincia="10" ID_Actividad="111">
+  <cliente-maquina ID_Maquina="2" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Sidney Beahan DVM" Cuit="709213225" Razon_Social="dqyoaby" ID_Ciudad="129" ID_Provincia="22" ID_Actividad="52">
+  <cliente-maquina ID_Maquina="2" Cantidad="160"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Sigrid Schroeder" Cuit="24168071" Razon_Social="cvdzrcv" ID_Ciudad="85" ID_Provincia="18" ID_Actividad="120">
+  <cliente-maquina ID_Maquina="3" Cantidad="143"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Sina Barrows" Cuit="10294214" Razon_Social="e" ID_Ciudad="76" ID_Provincia="23" ID_Actividad="87">
+  <cliente-maquina ID_Maquina="4" Cantidad="123"/>
+  <vendedor Nombre_Vendedor="Ms  Felicie Deckow D" ID_Vendedor="7" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Skyla Lemke" Cuit="349830826" Razon_Social="wqcntjunr" ID_Ciudad="22" ID_Provincia="16" ID_Actividad="155">
+  <cliente-maquina ID_Maquina="4" Cantidad="121"/>
+  <vendedor Nombre_Vendedor="Mr  Rich McCullough" ID_Vendedor="17" ID_Zona="6"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Soloman Kub" Cuit="211277546" Razon_Social="cpsqzu" ID_Ciudad="131" ID_Provincia="11" ID_Actividad="182">
+  <cliente-maquina ID_Maquina="5" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Sonia Von" Cuit="137829131" Razon_Social="ejqfuerlpw" ID_Ciudad="49" ID_Provincia="23" ID_Actividad="82">
+  <cliente-maquina ID_Maquina="0" Cantidad="102"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Stanton Oberbrunner " Cuit="571258885" Razon_Social="gobbzs" ID_Ciudad="122" ID_Provincia="22" ID_Actividad="21">
+  <cliente-maquina ID_Maquina="5" Cantidad="162"/>
+  <cliente-maquina ID_Maquina="4" Cantidad="25"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Stephon Langworth" Cuit="259939119" Razon_Social="ivplge" ID_Ciudad="71" ID_Provincia="15" ID_Actividad="174">
+  <cliente-maquina ID_Maquina="5" Cantidad="72"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Stevan Brekke" Cuit="402696477" Razon_Social="ixebjg" ID_Ciudad="32" ID_Provincia="5" ID_Actividad="4">
+  <cliente-maquina ID_Maquina="4" Cantidad="56"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Steve Harris" Cuit="714781165" Razon_Social="extqm" ID_Ciudad="36" ID_Provincia="15" ID_Actividad="199">
+  <cliente-maquina ID_Maquina="2" Cantidad="167"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+ </cliente>
+ <cliente Nombre="Sue Barton" Cuit="801175078" Razon_Social="ua" ID_Ciudad="13" ID_Provincia="18" ID_Actividad="144">
+  <cliente-maquina ID_Maquina="2" Cantidad="76"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Sylvan Rosenbaum" Cuit="564599284" Razon_Social="hzhdk" ID_Ciudad="46" ID_Provincia="16" ID_Actividad="93">
+  <cliente-maquina ID_Maquina="5" Cantidad="143"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Talon Bashirian" Cuit="823505215" Razon_Social="ddgmuvvy" ID_Ciudad="26" ID_Provincia="21" ID_Actividad="12">
+  <cliente-maquina ID_Maquina="1" Cantidad="61"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Teela Fadel" Cuit="926448187" Razon_Social="exuzn" ID_Ciudad="39" ID_Provincia="16" ID_Actividad="73">
+  <cliente-maquina ID_Maquina="2" Cantidad="4"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Tennie Schowalter" Cuit="259708529" Razon_Social="fnq" ID_Ciudad="57" ID_Provincia="0" ID_Actividad="57">
+  <cliente-maquina ID_Maquina="3" Cantidad="27"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Teri Lindgren" Cuit="951250543" Razon_Social="befevas" ID_Ciudad="105" ID_Provincia="20" ID_Actividad="134">
+  <cliente-maquina ID_Maquina="5" Cantidad="182"/>
+  <cliente-maquina ID_Maquina="4" Cantidad="53"/>
+ </cliente>
+ <cliente Nombre="Towanda Hyatt" Cuit="792432520" Razon_Social="fpxhfcgm" ID_Ciudad="34" ID_Provincia="1" ID_Actividad="51">
+  <cliente-maquina ID_Maquina="2" Cantidad="188"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Trae Stokes" Cuit="445236032" Razon_Social="lkao" ID_Ciudad="8" ID_Provincia="20" ID_Actividad="153">
+  <cliente-maquina ID_Maquina="5" Cantidad="190"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Tristen Howe" Cuit="351620549" Razon_Social="vbgxhdd" ID_Ciudad="124" ID_Provincia="21" ID_Actividad="75">
+  <cliente-maquina ID_Maquina="5" Cantidad="138"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Twila Paucek" Cuit="706876904" Razon_Social="hyc" ID_Ciudad="128" ID_Provincia="12" ID_Actividad="26">
+  <cliente-maquina ID_Maquina="4" Cantidad="101"/>
+  <vendedor Nombre_Vendedor="Holmes Turcotte" ID_Vendedor="10" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Tyra Powlowski" Cuit="383164251" Razon_Social="jmxw" ID_Ciudad="78" ID_Provincia="7" ID_Actividad="105">
+  <cliente-maquina ID_Maquina="2" Cantidad="5"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Tyson Bailey" Cuit="722341263" Razon_Social="e" ID_Ciudad="56" ID_Provincia="13" ID_Actividad="196">
+  <cliente-maquina ID_Maquina="3" Cantidad="60"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Val Ledner" Cuit="368020384" Razon_Social="bwl" ID_Ciudad="82" ID_Provincia="8" ID_Actividad="22">
+  <cliente-maquina ID_Maquina="1" Cantidad="60"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Djuana McGlynn DDS" ID_Vendedor="13" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Valentino Bernhard D" Cuit="652716090" Razon_Social="rsuhzkxef" ID_Ciudad="3" ID_Provincia="13" ID_Actividad="150">
+  <cliente-maquina ID_Maquina="1" Cantidad="174"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Vassie Wilkinson" Cuit="640869455" Razon_Social="fojxselz" ID_Ciudad="73" ID_Provincia="4" ID_Actividad="33">
+  <cliente-maquina ID_Maquina="5" Cantidad="23"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Verna Cole" Cuit="413134070" Razon_Social="j" ID_Ciudad="63" ID_Provincia="15" ID_Actividad="110">
+  <cliente-maquina ID_Maquina="2" Cantidad="56"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Dr  Kamari Mueller" ID_Vendedor="2" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Vernell Hudson" Cuit="243452320" Razon_Social="b" ID_Ciudad="114" ID_Provincia="15" ID_Actividad="65">
+  <cliente-maquina ID_Maquina="3" Cantidad="180"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Vicie Lubowitz" Cuit="515377976" Razon_Social="ycdqjrd" ID_Ciudad="82" ID_Provincia="13" ID_Actividad="2">
+  <cliente-maquina ID_Maquina="4" Cantidad="162"/>
+  <vendedor Nombre_Vendedor="Karley Zieme" ID_Vendedor="15" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Vida Borer" Cuit="842867750" Razon_Social="fgymaadutx" ID_Ciudad="125" ID_Provincia="20" ID_Actividad="63">
+  <cliente-maquina ID_Maquina="3" Cantidad="23"/>
+ </cliente>
+ <cliente Nombre="Wade Ferry" Cuit="98484379" Razon_Social="yc" ID_Ciudad="148" ID_Provincia="14" ID_Actividad="101">
+  <cliente-maquina ID_Maquina="3" Cantidad="147"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+ </cliente>
+ <cliente Nombre="Walter Wilkinson" Cuit="619608281" Razon_Social="xgf" ID_Ciudad="24" ID_Provincia="7" ID_Actividad="150">
+  <cliente-maquina ID_Maquina="1" Cantidad="197"/>
+  <vendedor Nombre_Vendedor="Percival Kertzmann" ID_Vendedor="14" ID_Zona="0"/>
+ </cliente>
+ <cliente Nombre="Warner Lind" Cuit="449767209" Razon_Social="orakv" ID_Ciudad="148" ID_Provincia="17" ID_Actividad="195">
+  <cliente-maquina ID_Maquina="5" Cantidad="198"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Willie Klein" Cuit="804348075" Razon_Social="fgddnjuhrl" ID_Ciudad="30" ID_Provincia="18" ID_Actividad="76">
+  <cliente-maquina ID_Maquina="3" Cantidad="114"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Kitty Balistreri" ID_Vendedor="19" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+ </cliente>
+ <cliente Nombre="Yancy Dare V" Cuit="942980610" Razon_Social="znjhcbhwn" ID_Ciudad="20" ID_Provincia="8" ID_Actividad="79">
+  <cliente-maquina ID_Maquina="0" Cantidad="101"/>
+  <vendedor Nombre_Vendedor="Fredie Borer" ID_Vendedor="6" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ms  Krissy Kirlin MD" ID_Vendedor="5" ID_Zona="2"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Yancy Marvin" Cuit="444169194" Razon_Social="hsggyhsqn" ID_Ciudad="134" ID_Provincia="13" ID_Actividad="36">
+  <cliente-maquina ID_Maquina="3" Cantidad="159"/>
+  <vendedor Nombre_Vendedor="Mr  Kristian Padberg" ID_Vendedor="8" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Zachary Monahan" Cuit="195263928" Razon_Social="pndiwsj" ID_Ciudad="131" ID_Provincia="8" ID_Actividad="6">
+  <cliente-maquina ID_Maquina="4" Cantidad="48"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+ </cliente>
+ <cliente Nombre="Zaire Howe I" Cuit="553211558" Razon_Social="jn" ID_Ciudad="125" ID_Provincia="9" ID_Actividad="98">
+  <cliente-maquina ID_Maquina="2" Cantidad="63"/>
+  <vendedor Nombre_Vendedor="Danica Carter" ID_Vendedor="11" ID_Zona="3"/>
+  <vendedor Nombre_Vendedor="Lewis Kub II" ID_Vendedor="16" ID_Zona="4"/>
+  <vendedor Nombre_Vendedor="Leafy Runte DVM" ID_Vendedor="1" ID_Zona="5"/>
+  <vendedor Nombre_Vendedor="Ada Rodriguez MD" ID_Vendedor="12" ID_Zona="7"/>
+ </cliente>
+ <cliente Nombre="Zena Kshlerin" Cuit="348287957" Razon_Social="hwkiwd" ID_Ciudad="94" ID_Provincia="21" ID_Actividad="188">
+  <cliente-maquina ID_Maquina="4" Cantidad="170"/>
+  <vendedor Nombre_Vendedor="Jered Terry" ID_Vendedor="3" ID_Zona="1"/>
+  <vendedor Nombre_Vendedor="Latifah Bernier PhD" ID_Vendedor="4" ID_Zona="2"/>
+ </cliente>
+ <cliente Nombre="Zoey Willms DDS" Cuit="688731199" Razon_Social="zfenlhqu" ID_Ciudad="67" ID_Provincia="18" ID_Actividad="94">
+  <cliente-maquina ID_Maquina="4" Cantidad="119"/>
+  <vendedor Nombre_Vendedor="Ms  Willa Kirlin" ID_Vendedor="18" ID_Zona="0"/>
+  <vendedor Nombre_Vendedor="Miss Aldona Blick" ID_Vendedor="9" ID_Zona="4"/>
+ </cliente>
+</clientes>

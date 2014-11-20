@@ -1,0 +1,24 @@
+Cordoba 17/10/2014
+Informe Base de Datos
+Integrantes: 
+	Armando Soto
+	Dario Molina
+	Eduardo Drazile
+	Santiago Feraud
+
+Se realizo el enunciado del Proyecto 2 de Laboratorio, en este informe se describira brevemente lo que se hizo, los problemas con los que nos encontramos
+y los archivos entregados.
+
+El proyecto era simple generar las consultas entregadas por la catedra en SQL y usar PHP para mostrar los resultados.
+
+Los principales problemas que encontramos fue realizar las consultas, pero con dedicacion y esfuerzo (y bastante ayuda de la catedra) logramos realizarlas.
+
+Se entrega un archivo .targz con la carpeta Ejercicio2 adentro de ella se encuentran un total de 11 carpetas la cuales tienen nombre Cons# donde # representa
+el numero de la consulta del enunciado entregado por la catedra. Por ejemplo los archivos necesarios para realizar la Consulta numero 1 del enunciado
+se encuentran dentro de la carpeta Cons1, en cada carpeta se encuentran 2 archivos Cons#.php y Cons#DB.php. El primero se encarga de mostrar de una 
+manera agradable al usuario la consulta a realizar, en caso de haberlo se mostraran las opciones a elegir y habra un boton el cual generara la 
+consulta (previa verificacion de los datos), mientras que en el archivo Cons#DB.php se conecta a la Base de Datos db2014_g09 la cual tiene los datos
+de la base de datos y se genera la/las consultas en SQL
+
+
+

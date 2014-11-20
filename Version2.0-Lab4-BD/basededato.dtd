@@ -1,29 +1,36 @@
-<?xml version='1.0' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Clientes[
-    <!ELEMENT Clientes (Cliente*, Cliente_Maquina+, Cliente_Zona+, Zona+, Contacto*, Vendedor+, Cliente_Vendedor+)>
-    <!ELEMENT Cliente (Cuit, Nombre, Razon_Social, ID_Ciudad, ID_Provincia, ID_Actividad)>
-    <!ELEMENT Cliente_Maquina (Cuit, ID_Maquina, Cantidad)>
-    <!ELEMENT Cliente_Zona (ID_Zona, Cuit)>
-    <!ELEMENT Zona (ID_Zona, Nombre_Zona)>
-    <!ELEMENT Contacto (Cuit, Telefono, Cumpleanos, Nombre_Contacto, Email, ID_Contacto)>
-    <!ELEMENT Vendedor (ID_Vendedor, Nombre_Vendedor, ID_Zona)>
-    <!ELEMENT Cliente_Vendedor (Cuit, ID_Vendedor)>	
-
-    <!ELEMENT Cuit (#PCDATA)>
-    <!ELEMENT Nombre (#PCDATA)>
-    <!ELEMENT Nombre_Contacto (#PCDATA)>
-    <!ELEMENT Nombre_Vendedor (#PCDATA)>
-    <!ELEMENT Razon_Social (#PCDATA)>
-    <!ELEMENT ID_Ciudad (#PCDATA)>
-    <!ELEMENT ID_Provincia (#PCDATA)>
-    <!ELEMENT ID_Actividad (#PCDATA)>
-    <!ELEMENT ID_Maquina (#PCDATA)>
-    <!ELEMENT ID_Zona (#PCDATA)>
-    <!ELEMENT  Nombre_Zona (#PCDATA)>
-    <!ELEMENT ID_Vendedor (#PCDATA)>
-    <!ELEMENT ID_Contacto (#PCDATA)>
-    <!ELEMENT Cantidad (#PCDATA)>
-    <!ELEMENT Telefono (#PCDATA)>
-    <!ELEMENT Cumpleanos (#PCDATA)>
-    <!ELEMENT Email (#PCDATA)>
+    <!ELEMENT Cliente (Vendedor, Zona, Ciudad, Maquina)>
+	<!ATTLIST Cliente 
+						Cuit ID #REQUIRED
+						Nombre CDATA #REQUIRED
+						Razon_Social CDATA #REQUIRED
+						Id_Zona IDREF #REQUIRED
+						Telefono CDATA #IMPLIED
+						Id_Vendedor IDREF #REQUIRED
+						Id_Maquina IDREF #REQUIRED
+						
+	>
+	<!ELEMENT Vendedor EMPTY>
+	<!ATTLIST Vendedor
+						Nombre_Vendedor CDATA #REQUIRED
+						Id_Vendedor ID #REQUIRED
+	>
+	<!ELEMENT Zona EMPTY>
+	<!ATTLIST Zona 
+					Nombre_Zona CDATA #REQUIRED
+					Id_Zona ID #REQUIRED
+	>
+  <!ELEMENT Ciudad EMPTY>
+  <!ATTLIST Ciudad
+					Nombre_Ciudad CDATA #REQUIRED
+					Id_Ciudad ID #REQUIRED
+  >
+  <!ELEMENT Maquina EMPTY>
+  <!ATTLIST Maquina
+					Nombre_Maquina CDATA #REQUIRED
+					Id_Maquina ID #REQUIRED
+					Cuit IDREF #REQUIRED
+					Cantidad CDATA #REQUIRED
+  >
 ]>

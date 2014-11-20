@@ -8,46 +8,60 @@ $xml = new XMLWriter();
 $xml->openURI("datos.xml");
 $xml->startDocument('1.0', 'UTF-8', 'yes');
 $xml->setIndent(true);
-$xml->startElement('clientes');
+$xml->startElement('Clientes');
 while ($row = mysql_fetch_assoc($res)) {
-    $xml->startElement("cliente");
+    $xml->startElement("Cliente");
     $xml->writeAttribute('Nombre', $row['Nombre']);
     $xml->writeAttribute('Cuit', $row['Cuit']);
     $xml->writeAttribute('Razon_Social', $row['Razon_Social']);
-    $xml->writeAttribute('ID_Ciudad', $row['ID_Ciudad']);
-    $xml->writeAttribute('ID_Provincia', $row['ID_Provincia']);
-    $xml->writeAttribute('ID_Actividad', $row['ID_Actividad']);
+    $xml->writeAttribute('Id_Zona', $row['Id_Zona']);
+    $xml->writeAttribute('Telefono', $row['Telefono']);
+    $xml->writeAttribute('Id_Vendedor', $row['Id_Vendedor']);
+	$xml->writeAttribute('Id_Ciudad', $row['Id_Ciudad']);
+	$xml->writeAttribute('Id_Maquina', $row['Id_Maquina']);
     # agrego maquinas
-    $sqly = "select ID_Maquina, Cantidad from Cliente natural join Cliente_Maquina where Cuit = '".$row['Cuit']."'";
+    $sqly = "select Nombre_Maquina, Cantidad, Cuit from Cliente natural join Maquina where Id_Maquina = '".$row['Id_Maquina']."'";
     $res2 = mysql_query($sqly);
-    while ($row2 = mysql_fetch_assoc($res2)) {
-    $xml->startElement("cliente-maquina");
-    $xml->writeAttribute('ID_Maquina', $row2['ID_Maquina']);
+	$row2 = mysql_fetch_assoc($res2);
+    #while ($row2 = mysql_fetch_assoc($res2)) {
+    $xml->startElement("Maquina");
+    $xml->writeAttribute('Nombre_Maquina', $row2['Nombre_Maquina']);
+	$xml->writeAttribute('Id_Maquina', $row['Id_Maquina']);
+	$xml->writeAttribute('Cuit', $row2['Cuit']);
 	$xml->writeAttribute('Cantidad', $row2['Cantidad']);
     $xml->endElement();
-    }
-    # agrego contact info
-    $sqly = "select Nombre_Contacto, Telefono, Cumpleanos, Email, ID_Contacto from Cliente natural join Cliente_Contacto natural join Contacto where Cuit ='".$row['Cuit']."'";
-    $res2 = mysql_query($sqly);
-    while ($row2 = mysql_fetch_assoc($res2)) {
-    $xml->startElement("contacto");
-    $xml->writeAttribute('Nombre_Contacto', $row2['Nombre_Contacto']);
-    $xml->writeAttribute('ID_Contacto', $row2['ID_Contacto']);
-    $xml->writeAttribute('Telefono', $row2['Telefono']);
-    $xml->writeAttribute('Cumpleanos', $row2['Cumpleanos']);
-    $xml->writeAttribute('Email', $row2['Email']);
-    $xml->endElement();
-    }
+    #}
     # agrego vendedores
-    $sqly = "select Nombre_Vendedor, ID_Vendedor, ID_Zona from Cliente natural join Cliente_Vendedor natural join Vendedor where Cuit = '".$row['Cuit']."'";
+    $sqly = "select Nombre_Vendedor from Cliente natural join Vendedor where Id_Vendedor = '".$row['Id_Vendedor']."'";
     $res2 = mysql_query($sqly);
-    while ($row2 = mysql_fetch_assoc($res2)) {
-    $xml->startElement("vendedor");
+	$row2 = mysql_fetch_assoc($res2);
+    #while ($row2 = mysql_fetch_assoc($res2)) {
+    $xml->startElement("Vendedor");
     $xml->writeAttribute('Nombre_Vendedor', $row2['Nombre_Vendedor']);
-    $xml->writeAttribute('ID_Vendedor', $row2['ID_Vendedor']);
-    $xml->writeAttribute('ID_Zona', $row2['ID_Zona']);
+    $xml->writeAttribute('Id_Vendedor', $row['Id_Vendedor']);
     $xml->endElement();
-    }
+    #}
+	# agrego Ciudad
+    $sqly = "select Nombre_Ciudad from Cliente natural join Ciudad where Id_Ciudad = '".$row['Id_Ciudad']."'";
+    $res2 = mysql_query($sqly);
+	$row2 = mysql_fetch_assoc($res2);
+    #while ($row2 = mysql_fetch_assoc($res2)) {
+    $xml->startElement("Ciudad");
+    $xml->writeAttribute('Nombre_Ciudad', $row2['Nombre_Ciudad']);
+    $xml->writeAttribute('Id_Ciudad', $row['Id_Ciudad']);
+    $xml->endElement();
+    #}
+	# agrego Zona
+    $sqly = "select Nombre_Zona from Cliente natural join Zona where Id_Zona = '".$row['Id_Zona']."'";
+    $res2 = mysql_query($sqly);
+	$row2 = mysql_fetch_assoc($res2);
+    #while ($row2 = mysql_fetch_assoc($res2)) {
+    $xml->startElement("Zona");
+    $xml->writeAttribute('Nombre_Zona', $row2['Nombre_Zona']);
+    $xml->writeAttribute('Id_Zona', $row['Id_Zona']);
+    $xml->endElement();
+    #}
+	
 $xml->endElement();
 }
 $xml->endElement();

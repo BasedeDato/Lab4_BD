@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Clientes[
-    <!ELEMENT Cliente (Vendedor, Zona, Ciudad, Maquina)>
+    <!ELEMENT Cliente (Ciudad, Zona, Vendedor, Maquina)>
 	<!ATTLIST Cliente 
-						Cuit ID #REQUIRED
 						Nombre CDATA #REQUIRED
+						Cuit ID #REQUIRED
 						Razon_Social CDATA #REQUIRED
 						Id_Zona IDREF #REQUIRED
 						Telefono CDATA #IMPLIED
 						Id_Vendedor IDREF #REQUIRED
+						Id_Ciudad IDREF #REQUIRED
 						Id_Maquina IDREF #REQUIRED
 						
 	>
